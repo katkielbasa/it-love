@@ -62,6 +62,14 @@ public class Test {
 //        noe.putAllFlayableToArc(lista);
         
         b.setFm(new WingFly());
+        
+      int i =  " asHJK asd ".toLowerCase().trim().getBytes().length;
+        
+        String str = " asHJK asd ";
+        String str2 = str.toLowerCase();
+        byte[] bytes = str2.getBytes();
+        int j = bytes.length;
+        
     }
     
 }
