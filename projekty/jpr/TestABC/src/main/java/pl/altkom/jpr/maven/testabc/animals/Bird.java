@@ -13,7 +13,7 @@ import pl.altkom.jpr.maven.testabc.animals.flymech.WingFly;
  *
  * @author instruktor
  */
-<<<<<<< .mine
+
 public abstract class Bird  extends Animal implements  Flayable{
 
     public FlyMechanizm fm = new WingFly();
@@ -21,9 +21,6 @@ public abstract class Bird  extends Animal implements  Flayable{
     public void fly() {
         fm.perfomFly();
     }
-=======
-public abstract class Bird  extends Animal{  
->>>>>>> .r70
-    
+
     
 }
