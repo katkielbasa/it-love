@@ -12,7 +12,7 @@ public class Test {
 
 		 
 		
-		
+		dekoder.setKompresor(new SuperAdapter());
 		dekoder.wlaczKompresje();
 
 	}

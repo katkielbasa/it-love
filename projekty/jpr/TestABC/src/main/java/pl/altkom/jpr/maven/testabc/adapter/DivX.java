@@ -3,8 +3,7 @@ package pl.altkom.jpr.maven.testabc.adapter;
 
 public class DivX implements Kompressor {
 
-    private boolean useSuper = false;
-
+    
     @Override
     public void komresuj() {
 
@@ -24,12 +23,6 @@ public class DivX implements Kompressor {
 
     }
 
-    public boolean isUseSuper() {
-        return useSuper;
-    }
-
-    public void setUseSuper(boolean useSuper) {
-        this.useSuper = useSuper;
-    }
+   
 
 }
