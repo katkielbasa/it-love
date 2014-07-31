@@ -23,19 +23,19 @@ class CheckAuthority {
 //                leader.processRequest(new PurchaseRequest(0, d, 0));
 //                System.out.println("Enter the type of purchase.");
 //                System.out.print(">");
-//                String a = (new BufferedReader(new InputStreamReader(System.in)).readLine());
+//                int a = Integer.parseInt(new BufferedReader(new InputStreamReader(System.in)).readLine());
 //                leader.processRequest(new PurchaseRequest(0, 0, a));
 //           }
 //        } catch(Exception e) {
 //            System.exit(1);
 //        }
         
-        PurchaseRequest purchase1 = new PurchaseRequest(1, 200, 0);
-        PurchaseRequest purchase2 = new PurchaseRequest(2, 2000, 1);
-        PurchaseRequest purchase3 = new PurchaseRequest(3, 200000, 2);
-        PurchaseRequest purchase4 = new PurchaseRequest(4, 200, 2);
-        PurchaseRequest purchase5 = new PurchaseRequest(5, 100, 1);
-        PurchaseRequest purchase6 = new PurchaseRequest(6, 200000, 2);
+        PurchaseRequest purchase1 = new PurchaseRequest(0, 200, 0);
+        PurchaseRequest purchase2 = new PurchaseRequest(0, 2000, 1);
+        PurchaseRequest purchase3 = new PurchaseRequest(0, 200000, 2);
+        PurchaseRequest purchase4 = new PurchaseRequest(0, 200, 2);
+        PurchaseRequest purchase5 = new PurchaseRequest(0, 100423, 1);
+        PurchaseRequest purchase6 = new PurchaseRequest(0, 200, 1);
         
         leader.processRequest(purchase1);
         leader.processRequest(purchase2);
