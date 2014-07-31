@@ -1,22 +1,18 @@
-package pl.altkom.jpr.nitecki.bookdb;
+package pl.altkom.jpr.maven.testabc.books;
 
 import java.util.List;
 
-public class NBookAdapter implements BookInterface {
+public class NBookAdapter extends SimpleBook {
 
-	
-	
 	private NBook nbook;
 
 	@Override
 	public String getTitleInfo() {
-
 		return nbook.getTitle() + ": " + nbook.getSubtitle();
 	}
 
 	@Override
 	public String getAuthorInfo() {
-
 		return nbook.getAuthorname() + " " + nbook.getAuthorlastname();
 	}
 
@@ -25,8 +21,7 @@ public class NBookAdapter implements BookInterface {
 		return null;
 	}
 
-	public NBookAdapter(NBook nbook) {
-		super();
+	public NBookAdapter(NBook nbook) {		
 		this.nbook = nbook;
 	}
 

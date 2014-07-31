@@ -1,16 +1,11 @@
-package pl.altkom.jpr.nitecki.bookdb.viewer;
+package pl.altkom.jpr.maven.testabc.books;
 
-import pl.altkom.jpr.nitecki.bookdb.*;
+ 
 
 public class SimpleBookViewer {
 
  
-	public void show(BookInterface book) {
-		
-		book.getAuthorInfo();
-		book.getTitleInfo();
-		book.getReviews();
-		
+	public void show(SimpleBook book) {
 		
 
 		System.out.println(book.getAuthorInfo());

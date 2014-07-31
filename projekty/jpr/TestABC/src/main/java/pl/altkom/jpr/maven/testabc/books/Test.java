@@ -1,12 +1,9 @@
-package pl.altkom.jpr.nitecki.bookdb.viewer;
+package pl.altkom.jpr.maven.testabc.books;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import pl.altkom.jpr.nitecki.bookdb.NBook;
-import pl.altkom.jpr.nitecki.bookdb.NBookAdapter;
-import pl.altkom.jpr.nitecki.bookdb.SimpleBook;
-
+ 
 public class Test {
 
 	public static void main(String[] args) {
@@ -37,6 +34,8 @@ public class Test {
 		viewer.show(book1);
 		viewer.show(book2c);
 //		System.out.println("Autor: " + book1.getAuthorInfo());
+		
+		
 		
 	 
 		
