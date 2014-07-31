@@ -17,7 +17,7 @@ public class Test {
 		book1.setAuthorname("George R.R. Martin");
 		book1.setTitleInfo("Winter is NOT coming");
 		List<String> reviews = new ArrayList<>();
-		reviews.add("Straszne gowno");
+		reviews.add("Straszne gie");
 		reviews.add("Najgorsza książka w historii");
 		book1.setReviews(reviews);
 		
