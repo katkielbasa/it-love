@@ -6,7 +6,7 @@ public class LocalLeader extends PurchasePower{
     private final int ALLOWABLE_PURPOSE = 0;
     
     public void processRequest(PurchaseRequest request) {
-        if (request.getAmount() <= ALLOWABLE && request.getPurpose() == ALLOWABLE_PURPOSE || ALLOWABLE_PURPOSE == 1) {
+        if (request.getAmount() <= ALLOWABLE && request.getPurpose() == ALLOWABLE_PURPOSE ) {
             System.out.println("Local Leader can buy product type " + request.getPurpose() + " for " + request.getAmount() + " cebul");
         } else if (successor != null) {
             successor.processRequest(request);

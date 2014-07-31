@@ -30,12 +30,12 @@ class CheckAuthority {
 //            System.exit(1);
 //        }
         
-        PurchaseRequest purchase1 = new PurchaseRequest(0, 200, 0);
-        PurchaseRequest purchase2 = new PurchaseRequest(0, 2000, 1);
-        PurchaseRequest purchase3 = new PurchaseRequest(0, 200000, 2);
-        PurchaseRequest purchase4 = new PurchaseRequest(0, 200, 2);
-        PurchaseRequest purchase5 = new PurchaseRequest(0, 100423, 1);
-        PurchaseRequest purchase6 = new PurchaseRequest(0, 200, 1);
+        PurchaseRequest purchase1 = new PurchaseRequest(1, 200, 0);
+        PurchaseRequest purchase2 = new PurchaseRequest(2, 2000, 1);
+        PurchaseRequest purchase3 = new PurchaseRequest(3, 200000, 2);
+        PurchaseRequest purchase4 = new PurchaseRequest(4, 200, 2);
+        PurchaseRequest purchase5 = new PurchaseRequest(5, 100423, 1);
+        PurchaseRequest purchase6 = new PurchaseRequest(6, 200, 1);
         
         leader.processRequest(purchase1);
         leader.processRequest(purchase2);
