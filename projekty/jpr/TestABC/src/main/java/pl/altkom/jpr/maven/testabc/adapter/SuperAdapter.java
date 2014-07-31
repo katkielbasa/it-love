@@ -9,7 +9,7 @@ public class SuperAdapter implements Kompressor {
 	private Prezenter prezenter = new Prezenter();
 	private SuperCompressor superCompressor = new SuperCompressor();
 	private SuperDekompressor superDekompressor = new SuperDekompressor();
-	
+
 	@Override
 	public void komresuj() {
 		superCompressor.compresss();
@@ -18,7 +18,7 @@ public class SuperAdapter implements Kompressor {
 
 	@Override
 	public void wyswietl() {
-	
+
 		prezenter.show();
 
 	}
