@@ -1,4 +1,4 @@
-package pl.altkom.jpr.kowalski.polecenie;
+package pl.altkom.jpr.kowalski.polecenie1;
 
 public class Test {
 
