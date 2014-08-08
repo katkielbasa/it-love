@@ -1,0 +1,7 @@
+<!ENTITY % lista 'miasto, adres, kod, tel+, fax*, email?'>
+<!ELEMENT miasto (#PCDATA)>
+<!ELEMENT adres (#PCDATA)>
+<!ELEMENT kod (#PCDATA)>
+<!ELEMENT tel (#PCDATA)>
+<!ELEMENT fax (#PCDATA)>
+<!ELEMENT email (#PCDATA)>

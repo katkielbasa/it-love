@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+	<xs:element name="osoby" type="osoby-typ" />
+	<xs:complexType name="osoby-typ">
+		<xs:sequence>
+			<xs:element name="osoba" type="osoba-typ" maxOccurs="unbounded" />
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="osoba-typ">
+		<xs:sequence>
+			<xs:element name="imie" type="str10" />
+			<xs:element name="nazwisko" type="str10" />
+			<xs:element name="wiek" type="xs:positiveInteger" />
+		</xs:sequence>
+		<xs:attribute name="plec" type="plec-typ" use="required" />
+	</xs:complexType>
+
+	<xs:simpleType name="plec-typ">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="mezczyzna" />
+			<xs:enumeration value="kobieta" />
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:simpleType name="str10">
+		<xs:restriction base="litery">
+			<xs:maxLength value="10" />
+		</xs:restriction>
+	</xs:simpleType>
+	
+	<xs:simpleType name="litery">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="[A-Z][a-z]*" />
+		</xs:restriction>
+	</xs:simpleType>
+</xs:schema>

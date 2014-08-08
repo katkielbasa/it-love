@@ -1,0 +1,28 @@
+<!ENTITY % polski "IGNORE">
+<!ENTITY % deutsch "IGNORE">
+<!ENTITY % english "IGNORE">
+
+<![%polski; [
+<!ELEMENT root (bajka)>
+<!ELEMENT bajka (autor,tytul,tresc)>
+<!ELEMENT autor (#PCDATA)>
+<!ELEMENT tytul (#PCDATA)>
+<!ELEMENT tresc (#PCDATA)>
+]]>
+
+<![%english; [
+<!ELEMENT root (fairytale)>
+<!ELEMENT fairytale (author,title,body)>
+<!ELEMENT author (#PCDATA)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT body (#PCDATA)>
+]]>
+
+<![%deutsch; [
+<!ELEMENT root (Geschichte)>
+<!ELEMENT Geschichte (Verfasser,Titel,Inhalt)>
+<!ELEMENT Verfasser (#PCDATA)>
+<!ELEMENT Titel (#PCDATA)>
+<!ELEMENT Inhalt (#PCDATA)>
+]]>
+

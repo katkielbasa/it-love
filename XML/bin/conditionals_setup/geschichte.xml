@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE root SYSTEM "warunkowe.dtd"[
+<!ENTITY % deutsch "INCLUDE">
+]>
+<root>
+  <Geschichte>
+    <Verfasser>Jacob und Wilhelm Grimm</Verfasser>
+    <Titel>Aschenputtel</Titel>
+    <Inhalt>Einem reichen Manne, dem wurde seine Frau krank...</Inhalt>
+  </Geschichte>
+ </root>

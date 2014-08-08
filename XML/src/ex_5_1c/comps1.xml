@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE network SYSTEM "comps.dtd" [
+<!ATTLIST comp type (desktop|server|laptop) #REQUIRED>
+<!ATTLIST processor count CDATA #REQUIRED>
+]>
+
+<network>
+	<comp type="desktop">
+		<processor count="1">Pentium 4 1.33 GHz</processor>
+		<memory>1 GB</memory>
+		<disk>200 GB</disk>
+	</comp>
+	<comp type="server">
+		<processor count="1">Core 2 Quad 2.66 GHz</processor>
+		<memory>4 GB</memory>
+		<disk>800 GB</disk>
+	</comp>
+	<comp type="laptop">
+		<processor count="1">Intel i7 3.0 GHz</processor>
+		<memory>16 GB</memory>
+		<disk>5 TB</disk>
+	</comp>
+</network>

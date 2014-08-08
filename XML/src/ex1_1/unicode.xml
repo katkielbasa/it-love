@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE osoby SYSTEM "names.dtd"> -->
+<ćwiczenie-1.1>
+	<różne_polskie_znaki>
+		<a> ą Ą </a>
+		<c> ć Ć </c>
+		<e> ę Ę </e>
+		<l> ł Ł </l>
+		<n> ń Ń </n>
+		<o> ó Ó </o>
+		<s> ś Ś </s>
+		<z> ż Ż </z>
+		<x> ź Ź </x>
+	</różne_polskie_znaki>
+</ćwiczenie-1.1>

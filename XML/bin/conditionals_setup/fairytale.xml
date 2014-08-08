@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE root SYSTEM "warunkowe.dtd"[
+<!ENTITY % english "INCLUDE">
+]>
+<root>
+  <fairytale>
+    <author>Jacob and Wilhelm Grimm</author>
+	  <title>Cinderella</title>
+      <body>A rich man's wife became sick...</body>
+  </fairytale>
+</root>

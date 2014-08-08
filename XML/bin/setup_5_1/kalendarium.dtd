@@ -1,0 +1,18 @@
+<!ELEMENT kalendarium (grupa+)>
+<!ELEMENT grupa (podgrupa+)>
+<!ATTLIST grupa nazwa CDATA #REQUIRED>
+<!ELEMENT podgrupa (kurs+)>
+<!ATTLIST podgrupa nazwa CDATA #IMPLIED>
+<!ELEMENT kurs (kod-kursu,nazwa-kursu,czas-trwania,cena,osrodek+)>
+<!ATTLIST kurs typ CDATA #IMPLIED>
+<!ELEMENT kod-kursu (#PCDATA)>
+<!ELEMENT nazwa-kursu (#PCDATA)>
+<!ELEMENT czas-trwania (#PCDATA)>
+<!ELEMENT cena (#PCDATA)>
+<!ATTLIST cena waluta (PLN|USD|EUR) "PLN">
+<!ELEMENT osrodek (miasto,termin+)>
+<!ELEMENT miasto (#PCDATA)>
+<!ELEMENT termin (dd,mm,yy)>
+<!ELEMENT mm (#PCDATA)>
+<!ELEMENT dd (#PCDATA)>
+<!ELEMENT yy (#PCDATA)>

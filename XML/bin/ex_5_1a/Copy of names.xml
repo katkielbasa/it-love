@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE osoby SYSTEM "names.dtd">
+<osoby>
+	<osoba>Jan Kowalski</osoba>
+	<osoba />
+	<osoba></osoba>
+	<osoba>
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+	</osoba>
+	<osoba>
+		<nazwisko>Kowalski</nazwisko>
+		<imie>Jan</imie>
+	</osoba>
+	<osoba>
+		Jan Kowalski
+		<nazwisko>Kowalski</nazwisko>
+		<imie>Jan</imie>
+		Koń Przewalskiego
+	</osoba>
+</osoby>

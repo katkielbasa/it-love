@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE osoby SYSTEM "names.dtd">
+<osoby>
+	<osoba plec="pokemon">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+	</osoba>
+</osoby>

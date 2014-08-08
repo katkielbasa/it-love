@@ -1,0 +1,6 @@
+<!ELEMENT network (comp+)>
+<!ELEMENT comp (processor,memory,disk)>
+<!ELEMENT processor (#PCDATA)>
+<!ELEMENT memory (#PCDATA)>
+<!ELEMENT disk (#PCDATA)>
+<!ATTLIST comp type (desktop|server) #REQUIRED>

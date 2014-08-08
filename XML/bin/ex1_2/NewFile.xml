@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<KalendariumSzkolen>
+	<dzial id="InzynieriaOprogramowania">
+		<szkolenie id="SzkoleniaDlaProgramistowBazDanych">
+
+			<kurs id="MS2030">
+				<NazwaKursu
+					name="Creating Reporting Solutions using Microsoft SQL
+Server 2000 Reporting Services" />
+				<CzasTrwaniaKursu dni="2" />
+				<CenaKursu cena="2100" waluta="pln" />
+				<OddzialyKursu>
+					<Oddzial miasto="Gdynia">
+						<DataRozpoczecia doUzgodnienia="true" />
+					</Oddzial>
+					<Oddzial miasto="Katowice">
+						<DataRozpoczecia doUzgodnienia="false">
+							<Data id="1" rozpoczecie="18/04" />
+							<Data id="2" rozpoczecie="19/06" />
+						</DataRozpoczecia>
+					</Oddzial>
+					<Oddzial miasto="Warszawa">
+						<DataRozpoczecia>
+							<Data doUzgodnienia="true" />
+						</DataRozpoczecia>
+					</Oddzial>
+				</OddzialyKursu>
+			</kurs>
+
+			<kurs id="MS2031">
+				<NazwaKursu name="Querying Microsoft SQL Server 2000 with
+Transact-SQL" />
+				<CzasTrwaniaKursu dni="2" />
+				<CenaKursu cena="1900" waluta="pln" />
+				<OddzialyKursu>
+					<Oddzial miasto="Gdynia">
+						<DataRozpoczecia doUzgodnienia="false">
+							<Data id="1" rozpoczecie="03/04" />
+							<Data id="2" rozpoczecie="08/05" />
+							<Data id="3" rozpoczecie="05/06" />
+						</DataRozpoczecia>
+					</Oddzial>
+					<Oddzial miasto="Katowice">
+						<DataRozpoczecia doUzgodnienia="false">
+							<Data id="1" rozpoczecie="13/03" />
+							<Data id="2" rozpoczecie="18/05" />
+						</DataRozpoczecia>
+					</Oddzial>
+					<Oddzial miasto="Warszawa">
+						<DataRozpoczecia doUzgodnienia="false">
+							<Data id="1" rozpoczecie="13/04" />
+						</DataRozpoczecia>
+					</Oddzial>
+				</OddzialyKursu>
+
+			</kurs>
+
+		</szkolenie>
+
+		<szkolenie id="SzkoleniaDlaProgramistowDotNET">
+
+			<kurs id="MS1013">
+				<NazwaKursu name="Mastering Microsoft Visual Basic 6 Development" />
+				<CzasTrwaniaKursu dni="5" />
+				<CenaKursu cena="3400" waluta="pln" />
+				<OddzialyKursu>
+					<Oddzial miasto="Gdynia">
+						<DataRozpoczecia doUzgodnienia="true" />
+					</Oddzial>
+					<Oddzial miasto="Katowice">
+						<DataRozpoczecia doUzgodnienia="true" />
+					</Oddzial>
+					<Oddzial miasto="Warszawa">
+						<DataRozpoczecia doUzgodnienia="false">
+							<Data id="1" rozpoczecie="27/03" />
+						</DataRozpoczecia>
+					</Oddzial>
+				</OddzialyKursu>
+
+			</kurs>
+
+		</szkolenie>
+	</dzial>
+</KalendariumSzkolen>

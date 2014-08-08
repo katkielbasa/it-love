@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kalendarium SYSTEM "kalendarium.dtd">
+<kalendarium>
+	<grupa nazwa="Microsoft">
+		<podgrupa nazwa="Inżynieria oprogramowania">
+			<kurs typ="autoryzowany">
+				<kod-kursu>MS 2030</kod-kursu>
+				<nazwa-kursu>Creating Reporting Solutions using Microsoft SQL Server
+					2000 Reporting Services</nazwa-kursu>
+				<czas-trwania>2</czas-trwania>
+				<cena waluta="PLN">2100</cena>
+				<osrodek>
+					<miasto>Katowice</miasto>
+					<termin>
+						<dd>18</dd>
+						<mm>04</mm>
+						<yy>2006</yy>
+					</termin>
+					<termin>
+						<dd>19</dd>
+						<mm>06</mm>
+						<yy>2006</yy>
+					</termin>
+					<termin>
+						<dd>10</dd>
+						<mm>07</mm>
+						<yy>2006</yy>
+					</termin>
+				</osrodek>
+				<osrodek>
+					<miasto>Gdynia</miasto>
+					<termin>
+						<dd>25</dd>
+						<mm>04</mm>
+						<yy>2006</yy>
+					</termin>
+					<termin>
+						<dd>03</dd>
+						<mm>07</mm>
+						<yy>2006</yy>
+					</termin>
+				</osrodek>
+				<osrodek>
+					<miasto>Warszawa</miasto>
+					<termin>
+						<dd>21</dd>
+						<mm>05</mm>
+						<yy>2006</yy>
+					</termin>
+					<termin>
+						<dd>28</dd>
+						<mm>05</mm>
+						<yy>2006</yy>
+					</termin>
+				</osrodek>
+			</kurs>
+			<kurs typ="autoryzowany">
+				<kod-kursu>MS 2073</kod-kursu>
+				<nazwa-kursu>Programming a Microsoft SQL Server 2000 Database</nazwa-kursu>
+				<czas-trwania>5</czas-trwania>
+				<cena waluta="PLN">3200</cena>
+				<osrodek>
+					<miasto>Gdynia</miasto>
+					<termin>
+						<dd>03</dd>
+						<mm>04</mm>
+						<yy>2006</yy>
+					</termin>
+					<termin>
+						<dd>17</dd>
+						<mm>07</mm>
+						<yy>2006</yy>
+					</termin>
+				</osrodek>
+				<osrodek>
+					<miasto>Katowice</miasto>
+					<termin>
+						<dd>03</dd>
+						<mm>04</mm>
+						<yy>2006</yy>
+					</termin>
+					<termin>
+						<dd>17</dd>
+						<mm>07</mm>
+						<yy>2006</yy>
+					</termin>
+				</osrodek>
+				<osrodek>
+					<miasto>Warszawa</miasto>
+					<termin>
+						<dd>10</dd>
+						<mm>04</mm>
+						<yy>2006</yy>
+					</termin>
+					<termin>
+						<dd>15</dd>
+						<mm>05</mm>
+						<yy>2006</yy>
+					</termin>
+					<termin>
+						<dd>12</dd>
+						<mm>06</mm>
+						<yy>2006</yy>
+					</termin>
+					<termin>
+						<dd>24</dd>
+						<mm>07</mm>
+						<yy>2006</yy>
+					</termin>
+				</osrodek>
+			</kurs>
+			<kurs typ="autoryzowany">
+				<kod-kursu>MS 2591</kod-kursu>
+				<nazwa-kursu>Implementing Replication Using Microsoft SQL Server
+					2000</nazwa-kursu>
+				<czas-trwania>3</czas-trwania>
+				<cena waluta="PLN">2550</cena>
+				<osrodek>
+					<miasto>Gdynia</miasto>
+					<termin>
+						<dd>13</dd>
+						<mm>05</mm>
+						<yy>2006</yy>
+					</termin>
+					<termin>
+						<dd>19</dd>
+						<mm>05</mm>
+						<yy>2006</yy>
+					</termin>
+				</osrodek>
+				<osrodek>
+					<miasto>Katowice</miasto>
+					<termin>
+						<dd>18</dd>
+						<mm>04</mm>
+						<yy>2006</yy>
+					</termin>
+					<termin>
+						<dd>12</dd>
+						<mm>06</mm>
+						<yy>2006</yy>
+					</termin>
+					<termin>
+						<dd>26</dd>
+						<mm>06</mm>
+						<yy>2006</yy>
+					</termin>
+				</osrodek>
+				<osrodek>
+					<miasto>Warszawa</miasto>
+					<termin>
+						<dd>26</dd>
+						<mm>04</mm>
+						<yy>2006</yy>
+					</termin>
+				</osrodek>
+			</kurs>
+		</podgrupa>
+	</grupa>
+</kalendarium>

@@ -1,0 +1,5064 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Transformers.xslt"?>
+<osoby>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+		<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+		<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+		<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+		<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+		<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+		<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+		<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+		<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+		<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+		<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+		<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+		<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+		<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+		<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+		<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+		<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+		<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+		<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+		<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+		<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+		<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+		<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+	<osoba plec="mezczyzna">
+		<imie>Jan</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<wiek>23</wiek>
+	</osoba>
+	<osoba plec="kobieta">
+		<imie>Anna</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>18</wiek>
+	</osoba>
+</osoby>

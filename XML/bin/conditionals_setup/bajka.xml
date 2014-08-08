@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE root SYSTEM "warunkowe.dtd"[
+<!ENTITY % polski "INCLUDE">
+]>
+<root>
+  <bajka>
+    <autor>Jakub i Wilhelm Grimm</autor>
+	  <tytul>Kopciuszek</tytul>
+	  <tresc>Pewnemu bogatemu człowiekowi zachorowała żona umiłowana...</tresc>
+  </bajka>
+</root>

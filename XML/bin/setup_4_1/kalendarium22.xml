@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kalendarium xmlns="pl.altkom.java.xml/kalendarium" xmlns:o="pl.altkom.java.xml/osrodek">
+	<grupa nazwa="Microsoft">
+		<podgrupa nazwa="Inżynieria oprogramowania">
+			<kurs typ="autoryzowany">
+				<kod>MS 2030</kod>
+				<nazwa-kursu>Creating Reporting Solutions using Microsoft SQL Server
+					2000 Reporting Services
+				</nazwa-kursu>
+				<czas-trwania>2</czas-trwania>
+				<cena waluta="PLN">2100</cena>
+				<osrodek>
+					<o:miasto>Katowice</o:miasto>
+					<o:ulica>Katowicka 92</o:ulica>
+					<o:kod>33-232</o:kod>
+					<o:tel>+4845525523</o:tel>
+					<o:fax>+4845525524</o:fax>
+					<o:email>osrodek.katowice@altkom.pl</o:email>
+					<termin>
+						<dd>18</dd>
+						<mm>04</mm>
+						<yy>2006</yy>
+					</termin>
+					<termin>
+						<dd>19</dd>
+						<mm>06</mm>
+						<yy>2006</yy>
+					</termin>
+					<termin>
+						<dd>10</dd>
+						<mm>07</mm>
+						<yy>2006</yy>
+					</termin>
+				</osrodek>
+				<osrodek>
+					<o:miasto>Gdynia</o:miasto>
+					<o:ulica>Morska 21/2</o:ulica>
+					<o:kod>85-321</o:kod>
+					<o:tel>+4833324243</o:tel>
+					<o:fax>+4833324242</o:fax>
+					<o:email>osrodek.gdynia@altkom.pl</o:email>
+					<termin>
+						<dd>25</dd>
+						<mm>04</mm>
+						<yy>2006</yy>
+					</termin>
+					<termin>
+						<dd>03</dd>
+						<mm>07</mm>
+						<yy>2006</yy>
+					</termin>
+				</osrodek>
+				<osrodek>
+					<o:miasto>Warszawa</o:miasto>
+					<o:ulica>Wrocławska 33</o:ulica>
+					<o:kod>01-218</o:kod>
+					<o:tel>+4822323413</o:tel>
+					<o:fax>+4822323414</o:fax>
+					<o:email>osrodek.warszawa@altkom.pl</o:email>
+					<termin>
+						<dd>21</dd>
+						<mm>05</mm>
+						<yy>2006</yy>
+					</termin>
+					<termin>
+						<dd>28</dd>
+						<mm>05</mm>
+						<yy>2006</yy>
+					</termin>
+				</osrodek>
+			</kurs>
+			<kurs typ="autoryzowany">
+				<o:kod>MS 2073</o:kod>
+				<nazwa-kursu>Programming a Microsoft SQL Server 2000 Database
+				</nazwa-kursu>
+				<czas-trwania>5</czas-trwania>
+				<cena waluta="PLN">3200</cena>
+				<osrodek>
+					<o:miasto>Gdynia</o:miasto>
+					<o:ulica>Morska 21/2</o:ulica>
+					<o:kod>85-321</o:kod>
+					<o:tel>+4833324243</o:tel>
+					<o:fax>+4833324242</o:fax>
+					<o:email>osrodek.gdynia@altkom.pl</o:email>
+					<termin>
+						<dd>03</dd>
+						<mm>04</mm>
+						<yy>2006</yy>
+					</termin>
+					<termin>
+						<dd>17</dd>
+						<mm>07</mm>
+						<yy>2006</yy>
+					</termin>
+				</osrodek>
+				<osrodek>
+					<o:miasto>Katowice</o:miasto>
+					<o:ulica>Katowicka 92</o:ulica>
+					<o:kod>33-232</o:kod>
+					<o:tel>+4845525523</o:tel>
+					<o:fax>+4845525524</o:fax>
+					<o:email>osrodek.katowice@altkom.pl</o:email>
+					<termin>
+						<dd>03</dd>
+						<mm>04</mm>
+						<yy>2006</yy>
+					</termin>
+					<termin>
+						<dd>17</dd>
+						<mm>07</mm>
+						<yy>2006</yy>
+					</termin>
+				</osrodek>
+				<osrodek>
+					<o:miasto>Warszawa</o:miasto>
+					<o:ulica>Wrocławska 33</o:ulica>
+					<o:kod>01-218</o:kod>
+					<o:tel>+4822323413</o:tel>
+					<o:fax>+4822323414</o:fax>
+					<o:email>osrodek.warszawa@altkom.pl</o:email>
+					<termin>
+						<dd>10</dd>
+						<mm>04</mm>
+						<yy>2006</yy>
+					</termin>
+					<termin>
+						<dd>15</dd>
+						<mm>05</mm>
+						<yy>2006</yy>
+					</termin>
+					<termin>
+						<dd>12</dd>
+						<mm>06</mm>
+						<yy>2006</yy>
+					</termin>
+					<termin>
+						<dd>24</dd>
+						<mm>07</mm>
+						<yy>2006</yy>
+					</termin>
+				</osrodek>
+			</kurs>
+			<kurs typ="autoryzowany">
+				<o:kod>MS 2591</o:kod>
+				<nazwa-kursu>Implementing Replication Using Microsoft SQL Server
+					2000
+				</nazwa-kursu>
+				<czas-trwania>3</czas-trwania>
+				<cena waluta="PLN">2550</cena>
+				<osrodek>
+					<o:miasto>Gdynia</o:miasto>
+					<o:ulica>Morska 21/2</o:ulica>
+					<o:kod>85-321</o:kod>
+					<o:tel>+4833324243</o:tel>
+					<o:tel>+4833324244</o:tel>
+					<o:fax>+4833324242</o:fax>
+					<o:email>osrodek.gdynia@altkom.pl</o:email>
+					<termin>
+						<dd>13</dd>
+						<mm>05</mm>
+						<yy>2006</yy>
+					</termin>
+					<termin>
+						<dd>19</dd>
+						<mm>05</mm>
+						<yy>2006</yy>
+					</termin>
+				</osrodek>
+				<osrodek>
+					<o:miasto>Katowice</o:miasto>
+					<o:ulica>Katowicka 92</o:ulica>
+					<o:kod>33-232</o:kod>
+					<o:tel>+4845525523</o:tel>
+					<o:fax>+4845525524</o:fax>
+					<o:email>osrodek.katowice@altkom.pl</o:email>
+					<termin>
+						<dd>18</dd>
+						<mm>04</mm>
+						<yy>2006</yy>
+					</termin>
+					<termin>
+						<dd>12</dd>
+						<mm>06</mm>
+						<yy>2006</yy>
+					</termin>
+					<termin>
+						<dd>26</dd>
+						<mm>06</mm>
+						<yy>2006</yy>
+					</termin>
+				</osrodek>
+				<osrodek>
+					<o:miasto>Warszawa</o:miasto>
+					<o:ulica>Wrocławska 33</o:ulica>
+					<o:kod>01-218</o:kod>
+					<o:tel>+4822323413</o:tel>
+					<o:fax>+4822323414</o:fax>
+					<o:email>osrodek.warszawa@altkom.pl</o:email>
+					<termin>
+						<dd>26</dd>
+						<mm>04</mm>
+						<yy>2006</yy>
+					</termin>
+				</osrodek>
+			</kurs>
+		</podgrupa>
+	</grupa>
+</kalendarium>

@@ -1,0 +1,6 @@
+<!ELEMENT osoby (osoba+)>
+<!ELEMENT osoba (imie, nazwisko, wiek)>
+<!ATTLIST osoba plec (mezczyzna|kobieta) #REQUIRED>
+<!ELEMENT imie (#PCDATA)>
+<!ELEMENT nazwisko (#PCDATA)>
+<!ELEMENT wiek (#PCDATA)>
