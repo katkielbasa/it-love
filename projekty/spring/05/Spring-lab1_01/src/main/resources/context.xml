@@ -8,7 +8,17 @@
          http://www.springframework.org/schema/context/spring-context-3.0.xsd">
 
     <!-- Ustaw właściwości poprzez konstruktor -->   
-	<bean id="person" class="altkom.model.Person" />
+	<bean id="person" class="altkom.model.Person">
+		<constructor-arg>
+			<value>0</value>
+		</constructor-arg>
+		<constructor-arg>
+			<value>Jan</value>
+		</constructor-arg>
+		<constructor-arg>
+			<value>Kowalski</value>
+		</constructor-arg>
+	</bean>
 	
 	<!-- Ustaw właściwości poprzez settery -->
 	<bean id="address" class="altkom.model.Address" />
