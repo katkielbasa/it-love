@@ -1,7 +1,9 @@
 package altkom.model;
 
 import org.apache.commons.lang.builder.ToStringBuilder;
+import org.springframework.stereotype.Component;
 
+@Component
 public class Address{
 
 	private Long id = 0l;
