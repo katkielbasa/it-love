@@ -6,46 +6,47 @@
 package altkom.model;
 
 import org.apache.commons.lang.builder.ToStringBuilder;
-import org.springframework.stereotype.Component;
 
 /**
  *
  * @author kursant5
  */
 
-@Component("car")
-public class Car {
+public class Dom {
+
+    private String ulica;
+    private String kolor;
 
     @Override
     public String toString() {
 
         return ToStringBuilder.reflectionToString(this);
     }
-    private long id;
-    private String name;
 
-    public Car() {
+    public Dom() {
     }
 
-    public Car(long id, String name) {
-        this.id = id;
-        this.name = name;
+    public Dom(String ulica, String kolor) {
+        this.ulica = ulica;
+        this.kolor = kolor;
     }
 
-    public long getId() {
-        return id;
+    public String getUlica() {
+        return ulica;
     }
 
-    public void setId(long id) {
-        this.id = id;
+    public void setUlica(String ulica) {
+        this.ulica = ulica;
     }
 
-    public String getName() {
-        return name;
+    public String getKolor() {
+        return kolor;
     }
 
-    public void setName(String name) {
-        this.name = name;
+    public void setKolor(String kolor) {
+        this.kolor = kolor;
     }
-
+    
+    
+    
 }

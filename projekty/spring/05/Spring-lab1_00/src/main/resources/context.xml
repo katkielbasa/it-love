@@ -15,4 +15,20 @@
     <!-- Skonfiguruj obslugę adnotacji -->
     <context:annotation-config/>
     <context:component-scan base-package="altkom.model"/>
+    
+    <bean id="dom" class="altkom.model.Dom">
+        <property name="ulica" value="Malachowskiego" />
+        <property name="kolor" value="Rozowy" />
+    </bean>
+    
+    <bean id="komputer" class="altkom.model.Komputer">
+        <constructor-arg>
+            <value>Asus</value>
+        </constructor-arg>   
+        <constructor-arg>
+            <value>Zielony</value>
+        </constructor-arg>  
+    </bean>
+    
+    
 </beans>
