@@ -4,6 +4,7 @@ import altkom.model.Address;
 import altkom.model.Car;
 import altkom.model.Dom;
 import altkom.model.Komputer;
+import altkom.model.Mieszkanie;
 import altkom.model.Person;
 import org.springframework.beans.factory.BeanFactory;
 import org.springframework.beans.factory.xml.XmlBeanFactory;
@@ -26,6 +27,7 @@ public class Lab0 {
             Dom dom1 = context.getBean("dom",Dom.class);
             Dom dom2 = context.getBean("domek",Dom.class);
             Komputer komputer = context.getBean("komputer",Komputer.class);
+            Mieszkanie mieszkanie = context.getBean("mieszkanie",Mieszkanie.class);
 		//Wyswietl wlsciwosci beanow
             System.out.println(person1);
             System.out.println(address1);
@@ -34,7 +36,7 @@ public class Lab0 {
             System.out.println(dom1);
             System.out.println(dom2);
             System.out.println(komputer);
-           
+            System.out.println(mieszkanie);
 		
 	} 
 	

@@ -47,5 +47,13 @@
             <value>Amiga</value>
         </constructor-arg>
     </bean>
+    <bean id="mieszkanie" class="altkom.model.Mieszkanie">
+        <property name="wielkosc" value="male" />
+        <property name="pokoj" ref="pokoj" />
+    </bean>
+     <bean id="pokoj" class="altkom.model.Pokoj">
+        <property name="kolor" value="rozowy" />
+    </bean>
+    
 
 </beans>
