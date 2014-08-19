@@ -25,7 +25,7 @@
             Nazwisko ${surname} <br/>
             Adres ${address} <br/>
             phone ${phone} <br/>
-            pesel ${pesel} <br/>
+            pesel ${pesel} <br/>z
         </p>
         <c:forEach var="type" items="${customers}">
             <ul class="ulista">
