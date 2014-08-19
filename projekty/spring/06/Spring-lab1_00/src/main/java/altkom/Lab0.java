@@ -1,6 +1,9 @@
 package altkom;
 
 import altkom.model.Address;
+import altkom.model.Car;
+import altkom.model.Dom;
+import altkom.model.Komputer;
 import altkom.model.Person;
 import org.springframework.beans.factory.BeanFactory;
 import org.springframework.beans.factory.xml.XmlBeanFactory;
@@ -18,9 +21,20 @@ public class Lab0 {
             //jeœli bean tworzony przez adnotacjê, to Spring jako identyfikator bierze nazwê klasy
             //i piszê z ma³ej 
             Address address1 = context.getBean("address", Address.class);
+            Car car1 = context.getBean("car",Car.class);
+            Car car2 = context.getBean("cark",Car.class);
+            Dom dom1 = context.getBean("dom",Dom.class);
+            Dom dom2 = context.getBean("domek",Dom.class);
+            Komputer komputer = context.getBean("komputer",Komputer.class);
 		//Wyswietl wlsciwosci beanow
             System.out.println(person1);
             System.out.println(address1);
+            System.out.println(car1);
+            System.out.println(car2);
+            System.out.println(dom1);
+            System.out.println(dom2);
+            System.out.println(komputer);
+           
 		
 	} 
 	
