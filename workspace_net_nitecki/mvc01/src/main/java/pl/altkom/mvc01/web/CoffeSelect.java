@@ -43,7 +43,8 @@ public class CoffeSelect extends HttpServlet {
     @Override
     protected void doPost(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
-
+        
+        int myID = Integer.parseInt(request.getParameter("id"));
         String myName = request.getParameter("name");
         String mySurname = request.getParameter("surname");
         String myAddress = request.getParameter("address");
@@ -52,8 +53,9 @@ public class CoffeSelect extends HttpServlet {
         
         if (myName != null && !myName.isEmpty()) {
             System.out.println("JESTEM");
-            Customer customer = new Customer(1, myName, myAddress, myPhone, mySurname, myPesel);
+            Customer customer = new Customer(myID, myName, myAddress, myPhone, mySurname, myPesel);
             customers.add(customer);
+            myID++;
         }
 
         System.out.println("Ontrzymane surname: " + mySurname);
