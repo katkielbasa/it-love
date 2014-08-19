@@ -4,6 +4,7 @@ import altkom.model.Address;
 import altkom.model.Car;
 import altkom.model.Dom;
 import altkom.model.Komputer;
+import altkom.model.Mieszkanie;
 import altkom.model.Person;
 import org.springframework.beans.factory.BeanFactory;
 import org.springframework.beans.factory.xml.XmlBeanFactory;
@@ -20,12 +21,14 @@ public class Lab0 {
         Car car1 = context.getBean("car", Car.class);
         Dom dom1 = context.getBean("dom", Dom.class); 
         Komputer komputer1 = context.getBean("komputer", Komputer.class);
+        Mieszkanie mieszkanie1 = context.getBean("mieszkanie", Mieszkanie.class);
         //Wyswietl wlsciwosci beanow
         System.out.println(person1);
         System.out.println(address1);
         System.out.println(car1);
         System.out.println(dom1);
         System.out.println(komputer1);
+        System.out.println(mieszkanie1);
 
 //        Person person2 = new Person();
 //        Address address2 = new Address();

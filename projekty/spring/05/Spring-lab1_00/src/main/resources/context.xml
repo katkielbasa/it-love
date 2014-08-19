@@ -21,6 +21,17 @@
         <property name="kolor" value="Rozowy" />
     </bean>
     
+    <bean id="mieszkanie" class="altkom.model.Mieszkanie">
+        <property name="wielkosc" value="33m&#178;"/>
+        <property name="pokoj">    
+            <bean class="altkom.model.Pokoj">
+                <property name="kolor" value="majtkowy roz"/> 
+            </bean>
+        </property>
+        
+    </bean>
+
+    
     <bean id="komputer" class="altkom.model.Komputer">
         <constructor-arg>
             <value>Asus</value>
