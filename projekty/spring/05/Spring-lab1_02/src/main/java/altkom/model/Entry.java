@@ -1,18 +1,19 @@
 package altkom.model;
 
 import org.apache.commons.lang.builder.ToStringBuilder;
+import org.springframework.beans.factory.annotation.Autowired;
 
 public class Entry {
 	
 	private Long id;
 	
-	private EntryCategory category = EntryCategory.DEFAULT;
+	private EntryCategory category;// = EntryCategory.DEFAULT;
 	
-	private Person person = new Person();
+	private Person person;// = new Person();
 	
-	private Address address = new Address();
-	
-	private Phone phone = new Phone();
+	private Address address;// = new Address();
+	@Autowired
+	private Phone phone;// = new Phone();
 	
 	@Override
 	public String toString() {

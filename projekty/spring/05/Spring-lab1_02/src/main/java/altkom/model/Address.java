@@ -7,6 +7,14 @@ import org.springframework.stereotype.Component;
 public class Address{
 
 	private Long id;
+
+    public Address(Long id, String street, String number, String city, String postalCode) {
+        this.id = id;
+        this.street = street;
+        this.number = number;
+        this.city = city;
+        this.postalCode = postalCode;
+    }
 	
 	private String street;
 	
