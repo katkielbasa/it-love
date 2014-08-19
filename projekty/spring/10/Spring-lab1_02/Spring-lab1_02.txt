@@ -1,0 +1,23 @@
+<context:annotation-config />
+
+--w entry
+<property name="person" ref="person" />
+		<property name="address">
+			<bean class="altkom.model.Address">
+				<property name="id" value="0" />
+				<property name="street" value="Stawki" />
+				<property name="number" value="2" />
+				<property name="city" value="Warszawa" />
+				<property name="postalCode" value="00-193" />
+			</bean>
+		</property>
+
+
+private EntryCategory category;// = EntryCategory.DEFAULT;
+	
+private Person person;// = new Person();
+	
+private Address address;// = new Address();
+	
+@Autowired
+private Phone phone;// = new Phone();
