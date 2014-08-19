@@ -1,7 +1,12 @@
 package altkom;
 
 import altkom.model.Address;
+import altkom.model.Car;
+import altkom.model.Dom;
+import altkom.model.Komputer;
+import altkom.model.Mieszkanie;
 import altkom.model.Person;
+import altkom.model.Pokoj;
 import org.springframework.beans.factory.BeanFactory;
 import org.springframework.beans.factory.xml.XmlBeanFactory;
 import org.springframework.core.io.ClassPathResource;
@@ -18,10 +23,19 @@ public class Lab0 {
             
             Person person1 = context.getBean("person", Person.class);
             Address address1 = context.getBean("address", Address.class);
-            
+            Car car1 = context.getBean("car", Car.class);
+            Dom dom1 = (Dom) context.getBean("dom");
+            Komputer komputer1 = (Komputer) context.getBean("komputer");
+            Pokoj pokoj1 = context.getBean("pokoj", Pokoj.class);
+            Mieszkanie mieszkanie1 = context.getBean("mieszkanie", Mieszkanie.class);
 		//Wyswietl wlsciwosci beanow
 		System.out.println(person1);
                 System.out.println(address1);
+                System.out.println(car1);
+                System.out.println(dom1);
+                System.out.println(komputer1);
+                System.out.println(mieszkanie1);
+                System.out.println(pokoj1);
 	} 
 	
 }
