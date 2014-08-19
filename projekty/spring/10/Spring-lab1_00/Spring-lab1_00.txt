@@ -1,0 +1,15 @@
+<!-- Zdefiniuj bean Person -->
+	<bean id="person" class="altkom.model.Person"/>
+	
+	<!-- Skonfiguruj obslugę adnotacji -->
+	<context:annotation-config/>
+	<context:component-scan base-package="altkom.model"/>
+
+
+                //Utworz kontener
+		BeanFactory context = new XmlBeanFactory(new ClassPathResource("context.xml"));
+		//Pobierz beany z kontenera
+		
+
+                //Wyswietl wlsciwosci beanow
+		
