@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns:context="http://www.springframework.org/schema/context"
+     xsi:schemaLocation="http://www.springframework.org/schema/beans
+         http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+         http://www.springframework.org/schema/context
+         http://www.springframework.org/schema/context/spring-context-3.0.xsd">
+<!--z tym trzeba dodac adnotacje w klasie, tak sie robi dla kilku klas- pakiet sie podaje-->
+    <context:annotation-config/>
+	<context:component-scan base-package="altkom.model"/>
+
+<!--zaczytaj ta klase ktora jest stworzona do kontekstu Springa
+      stwórz obiekt klasy Person, (ktora jest javabeanem) pod identyfikatorem "person" , 
+        tak sie robi dla 1 klasy:-->
+<bean id="person" class="altkom.model.Person"/>
+	
+
+
+
+	<!-- Zdefiniuj bean Person -->
+
+	<!-- Skonfiguruj obslugę adnotacji -->
+
+</beans>
