@@ -1,5 +1,6 @@
 package altkom.model.repository;
 
+import altkom.model.Car;
 import java.util.List;
 
 import altkom.model.Entry;
@@ -16,4 +17,5 @@ public interface PhoneBookRepository {
 	
 	public abstract void logToSysout();
 
+        public abstract List<Car> findAllCars();
 }

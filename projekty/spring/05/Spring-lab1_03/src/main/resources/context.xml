@@ -9,8 +9,38 @@
          http://www.springframework.org/schema/context/spring-context-3.0.xsd
          http://www.springframework.org/schema/util
          http://www.springframework.org/schema/util/spring-util-3.0.xsd">
-
+  
+    <bean id="car1" class="altkom.model.Car">
+        <property name="key" value="1"></property>
+        <property name="kolor" value="czarny"></property>
+    </bean>
+    <bean id="car2" class="altkom.model.Car">
+        <property name="key" value="2"></property>
+        <property name="kolor" value="zielony"></property>
+    </bean>
     
+    <bean id="repository3"
+          class="altkom.model.repository.InMemoryRepository">
+        <property name="cars">
+            <util:map>
+                <entry key="1" value-ref="car1"></entry>
+                <entry key="2" value-ref="car2"></entry>
+            </util:map>
+        </property>
+    </bean>
+    
+    <bean id="repository4"
+              class="altkom.model.repository.InMemoryRepository">
+        <property name="carsAsList">
+            <!-- utworzenie listy beanów w kontekście springa poprzez wywołanie metody setEntriesAsList z klasy InMemoryRepository -->
+            <util:list value-type="altkom.model.Car">
+                <!-- wstrzykniecie obiektu o id entry1 -->
+                <ref local="car1" />
+                <!-- wstrzykniecie obiektu o id entry2 -->
+                <ref local="car2" />
+            </util:list>
+        </property>
+    </bean>
     
     <bean id="repository1"
           class="altkom.model.repository.InMemoryRepository">

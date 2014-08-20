@@ -5,6 +5,7 @@
  */
 package javaapplication2;
 
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -28,7 +29,6 @@ public class TestApp {
         for (Car car : cars) {
             System.out.println(car.getMarka());
         }
-
     }
 
 }
