@@ -41,5 +41,31 @@
         </constructor-arg>  
     </bean>
     
+<!--    <bean id="okno" class="altkom.model.Okno">
+        <property name="obwod" value="2m"/> 
+    </bean>
+    
+    <bean id="szyba" class="altkom.model.Szyba">
+        <property name="waga" value="3kg"/> 
+    </bean>-->
+    
+    <bean id="okno" class="altkom.model.Okno">
+        <constructor-arg>
+            <value>2m</value>
+        </constructor-arg>     
+    </bean>
+    
+    <bean id="szyba" class="altkom.model.Szyba">
+        <constructor-arg>
+            <value>3kg</value>
+        </constructor-arg> 
+    </bean>
+    
+    <bean id="sciana" class="altkom.model.Sciana">
+        <constructor-arg>
+            <value>5m</value>
+        </constructor-arg>     
+    </bean>
+    
     
 </beans>

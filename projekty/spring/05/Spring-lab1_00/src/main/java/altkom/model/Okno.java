@@ -1,0 +1,51 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package altkom.model;
+
+import org.apache.commons.lang.builder.ToStringBuilder;
+import org.springframework.beans.factory.annotation.Autowired;
+
+/**
+ *
+ * @author kursant5
+ */
+public class Okno {
+
+    private String obwod;
+
+    @Autowired
+    private Szyba szyba;
+
+    public Okno(String obwod) {
+        this.obwod = obwod;
+    }
+
+    public Okno() {
+    }
+
+//    public Szyba getSzyba() {
+//        return szyba;
+//    }
+//
+//    public void setSzyba(Szyba szyba) {
+//        this.szyba = szyba;
+//    }
+//
+//    public String getObwod() {
+//        return obwod;
+//    }
+//
+//    public void setObwod(String obwod) {
+//        this.obwod = obwod;
+//    }
+//
+    @Override
+    public String toString() {
+
+        return ToStringBuilder.reflectionToString(this);
+    }
+
+}
