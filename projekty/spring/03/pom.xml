@@ -16,6 +16,7 @@
         <module>Spring-lab1_02</module>
         <module>Spring-lab1_03</module>
         <module>Spring-lab1_03_1</module>
+        <module>JavaApplication3</module>
         
     </modules>
 </project>
