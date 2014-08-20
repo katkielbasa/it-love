@@ -4,6 +4,7 @@ import altkom.model.Car;
 import java.util.List;
 
 import altkom.model.Entry;
+import altkom.model.Komputer;
 import java.util.Map;
 
 public interface PhoneBookRepository {
@@ -23,4 +24,10 @@ public interface PhoneBookRepository {
     abstract void setCarsAsList(List<Car> cars);
 
     abstract List<Car> findAllCars();
+    
+    abstract List<Komputer> findAllKomputers();
+    
+    abstract void setKomputers(Map<Long, Komputer> comps);
+    
+    abstract void setKomputersAsList(List<Komputer> comps);
 }

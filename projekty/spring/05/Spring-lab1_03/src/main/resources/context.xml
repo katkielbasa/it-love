@@ -19,7 +19,7 @@
         <property name="kolor" value="zielony"></property>
     </bean>
     
-        <bean id="car3" class="altkom.model.Car">
+    <bean id="car3" class="altkom.model.Car">
         <property name="key" value="3"></property>
         <property name="kolor" value="zolty"></property>
     </bean>
@@ -28,7 +28,7 @@
         <property name="kolor" value="niebieski"></property>
     </bean>
     
-    <bean id="repository3"
+        <bean id="repository3"
           class="altkom.model.repository.InMemoryRepository">
         <property name="cars">
             <util:map>
@@ -47,6 +47,47 @@
                 <ref local="car3" />
                 <!-- wstrzykniecie obiektu o id entry2 -->
                 <ref local="car4" />
+            </util:list>
+        </property>
+    </bean>
+    
+    <bean id="komputer1" class="altkom.model.Komputer">
+        <property name="id" value="1"></property>
+        <property name="marka" value="Dell"></property>
+    </bean>
+    <bean id="komputer2" class="altkom.model.Komputer">
+        <property name="id" value="2"></property>
+        <property name="marka" value="ASUS"></property>
+    </bean>
+    
+    <bean id="komputer3" class="altkom.model.Komputer">
+        <property name="id" value="3"></property>
+        <property name="marka" value="ACER"></property>
+    </bean>
+    <bean id="komputer4" class="altkom.model.Komputer">
+        <property name="id" value="4"></property>
+        <property name="marka" value="iMac"></property>
+    </bean>
+    
+    <bean id="repository5"
+          class="altkom.model.repository.InMemoryRepository">
+        <property name="komputers">
+            <util:map>
+                <entry key="1" value-ref="komputer1"></entry>
+                <entry key="2" value-ref="komputer2"></entry>
+            </util:map>
+        </property>
+    </bean>
+    
+    <bean id="repository6"
+          class="altkom.model.repository.InMemoryRepository">
+        <property name="komputersAsList">
+            <!-- utworzenie listy beanów w kontekście springa poprzez wywołanie metody setEntriesAsList z klasy InMemoryRepository -->
+            <util:list value-type="altkom.model.Komputer">
+                <!-- wstrzykniecie obiektu o id entry1 -->
+                <ref local="komputer3" />
+                <!-- wstrzykniecie obiektu o id entry2 -->
+                <ref local="komputer4" />
             </util:list>
         </property>
     </bean>

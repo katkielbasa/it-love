@@ -2,6 +2,7 @@ package altkom.model.repository;
 
 import altkom.model.Car;
 import altkom.model.Entry;
+import altkom.model.Komputer;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -11,6 +12,7 @@ public class InMemoryRepository implements PhoneBookRepository {
 
     private Map<Long, Entry> entries = new HashMap<Long, Entry>();
     private Map<Long, Car> cars = new HashMap<Long, Car>();
+    private Map<Long, Komputer> comps = new HashMap<Long, Komputer>();
 
     @Override
     public void save(Entry entry) {
@@ -43,6 +45,11 @@ public class InMemoryRepository implements PhoneBookRepository {
     }
 
     @Override
+    public List<Komputer> findAllKomputers() {
+        return new ArrayList<Komputer>(comps.values());
+    }
+
+    @Override
     public void logToSysout() {
         System.out.println("Aktualny stan bazy = " + entries);
     }
@@ -72,6 +79,19 @@ public class InMemoryRepository implements PhoneBookRepository {
         this.cars.clear();
         for (Car car : cars) {
             this.cars.put(car.getKey(), car);
+        }
+    }
+
+    @Override
+    public void setKomputers(Map<Long, Komputer> comps) {
+        this.comps = comps;
+    }
+
+    @Override
+    public void setKomputersAsList(List<Komputer> comps) {
+        this.comps.clear();
+        for (Komputer komp : comps) {
+            this.comps.put(komp.getId(), komp);
         }
     }
 

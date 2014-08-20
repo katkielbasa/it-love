@@ -2,6 +2,7 @@ package altkom;
 
 import altkom.model.Car;
 import altkom.model.Entry;
+import altkom.model.Komputer;
 import altkom.model.repository.PhoneBookRepository;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
@@ -28,11 +29,21 @@ public class Lab3 {
         for (Car car : repository3.findAllCars()) {
             System.out.println(car.toString());
         }
-
         PhoneBookRepository repository4 = (PhoneBookRepository) factory.getBean("repository4");
         System.out.println("*************** Repository4 ***************");
         for (Car car : repository4.findAllCars()) {
             System.out.println(car.toString());
+        }
+        PhoneBookRepository repository5 = (PhoneBookRepository) factory.getBean("repository5");
+        System.out.println("*************** Repository4 ***************");
+        for (Komputer komp : repository5.findAllKomputers()) {
+            System.out.println(komp.toString());
+        }
+
+        PhoneBookRepository repository6 = (PhoneBookRepository) factory.getBean("repository6");
+        System.out.println("*************** Repository3 ***************");
+        for (Komputer komp : repository6.findAllKomputers()) {
+            System.out.println(komp.toString());
         }
 
     }
