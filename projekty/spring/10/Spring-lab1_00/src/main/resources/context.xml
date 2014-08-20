@@ -43,8 +43,21 @@
         <property name="pokoj" ref="pokoj" />
             
     </bean>
-   
-
     
-
+    <bean id="szyba" class="altkom.model.Szyba">
+        <property name="waga" value="12" />
+       
+		
+    </bean>
+     <bean id="okno" class="altkom.model.Okno">
+        <property name="obwod" value="300" />
+   
+		
+    </bean>
+    
+     <bean id="sciana" class="altkom.model.Sciana">
+        <property name="obwod" value="550" />
+   
+		
+    </bean>
 </beans>
