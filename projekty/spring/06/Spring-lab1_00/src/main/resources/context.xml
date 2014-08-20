@@ -14,11 +14,13 @@
    klasy Person !-->
       <!-- Zdefiniuj bean Person -->
     <bean id="person" class="altkom.model.Person"/>  
+    
      <bean id="car" class="altkom.model.Car">
         <property name="id" value="1" />
         <property name="name" value="Maluch" />
     </bean>
-     <bean id="cark" class="altkom.model.Car">
+    
+    <bean id="cark" class="altkom.model.Car">
         <constructor-arg>
             <value>2</value>
         </constructor-arg>
@@ -54,6 +56,17 @@
      <bean id="pokoj" class="altkom.model.Pokoj">
         <property name="kolor" value="rozowy" />
     </bean>
+   
+    <bean id="okno" class="altkom.model.Okno">
+        <property name="obwod" value="20 cm" />
+    </bean>
+
+    <bean id="szyba" class="altkom.model.Szyba">
+        <property name="waga" value="20 ton" />
+    </bean>
     
+    <bean id="sciana" class="altkom.model.Sciana">
+        <property name="obwod" value="20 metrow" />
+    </bean>
 
 </beans>
