@@ -36,7 +36,8 @@ public class InMemoryRepository implements PhoneBookRepository {
     public List<Entry> findAllEntries() {
         return new ArrayList<Entry>(entries.values());
     }
-    
+
+    @Override
     public List<Car> findAllCars() {
         return new ArrayList<Car>(cars.values());
     }
@@ -61,10 +62,12 @@ public class InMemoryRepository implements PhoneBookRepository {
         }
     }
 
+    @Override
     public void setCars(Map<Long, Car> cars) {
         this.cars = cars;
     }
 
+    @Override
     public void setCarsAsList(List<Car> cars) {
         this.cars.clear();
         for (Car car : cars) {

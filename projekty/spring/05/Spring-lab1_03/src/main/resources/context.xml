@@ -30,7 +30,7 @@
     </bean>
     
     <bean id="repository4"
-              class="altkom.model.repository.InMemoryRepository">
+          class="altkom.model.repository.InMemoryRepository">
         <property name="carsAsList">
             <!-- utworzenie listy beanów w kontekście springa poprzez wywołanie metody setEntriesAsList z klasy InMemoryRepository -->
             <util:list value-type="altkom.model.Car">
