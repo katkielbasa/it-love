@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns:context="http://www.springframework.org/schema/context"
+     xsi:schemaLocation="http://www.springframework.org/schema/beans
+         http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+         http://www.springframework.org/schema/context
+         http://www.springframework.org/schema/context/spring-context-3.0.xsd">
+
+
+	<!-- Zdefiniuj bean Person -->
+    <context:annotation-config/><!--widzi adnotacje @Component w kalsie adress,
+                                 bez niego klasa adress nie zostanie odczytana!!!! -->
+    <context:component-scan base-package="altkom.model"/>  <!--gdzie sa biny zaadnotowane w ten sposob
+                                                                przez adnotacje component--> 
+       
+    <bean id="person" class="altkom.model.Person"/> <!--jeden obiekt z klasy model,
+                                                     tylko person , 
+                                                     jak Person person = new Person
+                                                     bez wiersza annotation config- person bedzie odczytane-->
+    
+   <bean id="dom" class="altkom.model.Dom">
+		<property name="ulica" value="Bajeczna" />
+		<property name="kolor" value="Bordo" />
+	</bean>
+        
+        <bean id="komputer" class="altkom.model.Komputer">
+		<constructor-arg>
+			<value>srebrny</value>
+		</constructor-arg>
+		<constructor-arg>
+			<value>Dell</value>
+		</constructor-arg>
+	</bean>
+        
+        <bean id="car" class="altkom.model.Car"/>
+        
+        
+        <bean id="mieszkanie" class="altkom.model.Mieszkanie">
+            <property name="wielkosc" value="male" />
+                <property name="pokoj" ref="pokoj" />
+        </bean>
+        
+        
+        <bean id="pokoj" class="altkom.model.Pokoj">
+		<constructor-arg>
+			<value>cytrynowy</value>
+		</constructor-arg>
+	</bean>
+        
+         <bean id="szyba" class="altkom.model.Szyba">
+		<property name="waga" value="5kg" />
+	</bean>
+        
+         <bean id="okno" class="altkom.model.Okno">
+		<property name="obwod" value="3m" />
+		
+	</bean>
+        
+        <bean id="sciana" class="altkom.model.Sciana">
+		<property name="obwod" value="24m" />
+		
+	</bean>
+        
+        
+
+</beans>
