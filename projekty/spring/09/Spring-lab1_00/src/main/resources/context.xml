@@ -9,12 +9,41 @@
          <!-- Skonfiguruj obslugę adnotacji -->
          <context:annotation-config/>
          <context:component-scan base-package="altkom.model"/>
-         <!-- Zdefiniuj bean Person -->
+         <!-- Zdefiniuj beany Person i Car -->
          <bean id="person" class="altkom.model.Person"/>
-
-
+         <bean id="car" class="altkom.model.Car"/>
+         <bean id="dom" class="altkom.model.Dom">
+             <property name = "ulica" value = "Wiejska"/>
+             <property name = "kolor" value = "bialy"/>
+         </bean>
+         
+         <bean id="pokoj" class="altkom.model.Pokoj">
+             <property name = "kolor" value = "bialy"/>
+         </bean>
+         
+         <bean id="szyba" class="altkom.model.Szyba">
+             <property name = "waga" value = "4"/>
+         </bean>
+         <bean id="okno" class="altkom.model.Okno">
+             <property name = "obwod" value = "2"/>
+         </bean>
+         <bean id="mieszkanie" class="altkom.model.Mieszkanie">
+             <property name = "wielkosc" value = "84"/>
+             <property name = "pokoj" ref = "pokoj"/>
+         </bean>
+         <bean id="sciana" class="altkom.model.Sciana">
+             <property name = "obwod" value = "707"/>
+         </bean>
+         
+         <bean id="komputer" class="altkom.model.Komputer">
+		<constructor-arg>
+			<value>czerwony</value>
+		</constructor-arg>
+		<constructor-arg>
+			<value>kosmiczna</value>
+		</constructor-arg>
+	</bean>
 	<!-- Zdefiniuj bean Person -->
-
 	<!-- Skonfiguruj obslugę adnotacji -->
 
 </beans>
