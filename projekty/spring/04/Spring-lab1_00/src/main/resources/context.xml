@@ -7,16 +7,64 @@
          http://www.springframework.org/schema/context
          http://www.springframework.org/schema/context/spring-context-3.0.xsd">
 
-
-    <context:annotation-config/>
-    <context:component-scan base-package="altkom.model"/>
-    
+<!-- Skonfiguruj obslugę adnotacji -->
+    <context:annotation-config/>  <!-- widzi adnotacje-->
+    <context:component-scan base-package="altkom.model"/>   <!--widzi ze jest wbudowane -->
+  <!-- Zdefiniuj bean Person -->  
 <bean id="person" class="altkom.model.Person"/> <!-- tworzony jest jeden konkretny obiekt Person person = new Person  -->
 
+<bean id="car" class="altkom.model.Car"/> 
+<bean id="house" class="altkom.model.House"/> 
 
 
-	<!-- Zdefiniuj bean Person -->
+<!--do klasy Dom   Ustawiam właściwości poprzez settery -->   
+<bean id="dom" class="altkom.model.Dom">
+		<property name="ulica" value="Wietrzna" /> 
+		<property name="kolor" value="biały" />
+</bean>
 
-	<!-- Skonfiguruj obslugę adnotacji -->
+	
+         <!-- Ustawiam właściwości poprzez konstruktor -->   
+	 <bean id="komputer" class="altkom.model.Komputer">
+		<constructor-arg>
+			<value>czarny</value>
+		</constructor-arg>
+		<constructor-arg>
+			<value>Dell</value>
+		</constructor-arg>
+		
+	</bean>
+        
+        <bean id="mieszkanie" class="altkom.model.Mieszkanie">
+            <property name="wielkosc" value="40m2" /> <!-- value i ref to są dwie rózne operacje -->
+            <property name="pokoj" ref="pokoj" />
+        </bean>
+        
+        <bean id="pokoj" class="altkom.model.Pokoj">
+            <constructor-arg>
+			<value>zielony</value>
+		</constructor-arg>
+        </bean>
+        
+         <bean id="okno" class="altkom.model.Okno">
+            <property name="obwod" value="100" /> <!-- value i ref to są dwie rózne operacje -->
+            
+        </bean>
+        
+        <bean id="szyba" class="altkom.model.Szyba">
+            <constructor-arg>
+			<value>5kg</value>
+		</constructor-arg>
+        </bean>
+        
+        <bean id="sciana" class="altkom.model.Sciana">
+            <property name="obwod" value="100" /> 
+            
+        </bean>
+        
+         
+           
+        
+        
 
 </beans>

@@ -11,6 +11,7 @@
     
     <modules>
         <module>Spring-lab1_00</module>
-        
+           <module>Spring-lab1_01</module>
+           <module>Spring-lab1_02</module>
     </modules>
 </project>
