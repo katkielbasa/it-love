@@ -19,6 +19,15 @@
         <property name="kolor" value="zielony"></property>
     </bean>
     
+        <bean id="car3" class="altkom.model.Car">
+        <property name="key" value="3"></property>
+        <property name="kolor" value="zolty"></property>
+    </bean>
+    <bean id="car4" class="altkom.model.Car">
+        <property name="key" value="4"></property>
+        <property name="kolor" value="niebieski"></property>
+    </bean>
+    
     <bean id="repository3"
           class="altkom.model.repository.InMemoryRepository">
         <property name="cars">
@@ -35,9 +44,9 @@
             <!-- utworzenie listy beanów w kontekście springa poprzez wywołanie metody setEntriesAsList z klasy InMemoryRepository -->
             <util:list value-type="altkom.model.Car">
                 <!-- wstrzykniecie obiektu o id entry1 -->
-                <ref local="car1" />
+                <ref local="car3" />
                 <!-- wstrzykniecie obiektu o id entry2 -->
-                <ref local="car2" />
+                <ref local="car4" />
             </util:list>
         </property>
     </bean>
