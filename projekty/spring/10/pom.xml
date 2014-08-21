@@ -15,5 +15,17 @@
          <module>
             Spring-lab1_01
         </module>
+        <module>
+            Spring-lab1_02
+        </module>
+        <module>
+            Spring-lab1_03
+        </module>
+        <module>
+            Spring-lab1_05
+        </module>
+        <module>
+            Spring-lab1_08
+        </module>
         </modules>
 </project>
