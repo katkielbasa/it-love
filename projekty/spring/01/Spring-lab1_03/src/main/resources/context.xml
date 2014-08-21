@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:util="http://www.springframework.org/schema/util"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+         http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+         http://www.springframework.org/schema/context
+         http://www.springframework.org/schema/context/spring-context-3.0.xsd
+         http://www.springframework.org/schema/util
+         http://www.springframework.org/schema/util/spring-util-3.0.xsd">
+    
+    <bean id="car1" class="altkom.model.Car">
+        <property name="key" value="1" />
+        <property name="kolor" value="green" />
+    </bean>
+    
+    <bean id="car2" class="altkom.model.Car">
+        <property name="key" value="2" />
+        <property name="kolor" value="red" />
+    </bean>
+    
+    <bean id="car3" class="altkom.model.Car">
+        <property name="key" value="3" />
+        <property name="kolor" value="black" />
+    </bean>
+    
+    <bean id="car4" class="altkom.model.Car">
+        <property name="key" value="4" />
+        <property name="kolor" value="white" />
+    </bean>
+    
+    <bean id="repositoryCar1"
+          class="altkom.model.repository.InMemoryRepository">
+        <!--z klasy InMemoryRepository wywolaj metode setEntriesAsList-->
+        <property name="carsAsList">
+            <util:list value-type="altkom.model.Car">
+                
+                <!--w tym miejscu dodaj do listy bean o id: entry1-->
+                <ref local="car1" />
+                
+                <!--w tym miejscu dodaj do listy bean o id: entry2-->
+                <ref local="car2" />
+                
+            </util:list>
+        </property>
+    </bean>
+    <bean id="repositoryCar2"
+          class="altkom.model.repository.InMemoryRepository">
+        <property name="cars">
+            <!--tu robi to samo ale w inny sposob, szuka setEntries w InMemoryRepository,
+            nastepnie tworzy pusta mape itd-->
+            <util:map>
+                <entry key="0" value-ref="car3"></entry>
+                <entry key="1" value-ref="car4"></entry>
+            </util:map>
+        </property>
+    </bean>
+    <bean id="repository1"
+          class="altkom.model.repository.InMemoryRepository">
+        <!--z klasy InMemoryRepository wywolaj metode setEntriesAsList-->
+        <property name="entriesAsList">
+            <util:list value-type="altkom.model.Entry">
+                
+                <!--w tym miejscu dodaj do listy bean o id: entry1-->
+                <ref local="entry1" />
+                
+                <!--w tym miejscu dodaj do listy bean o id: entry2-->
+                <ref local="entry2" />
+                
+            </util:list>
+        </property>
+    </bean>
+
+    <bean id="repository2"
+          class="altkom.model.repository.InMemoryRepository">
+        <property name="entries">
+            <!--tu robi to samo ale w inny sposob, szuka setEntries w InMemoryRepository,
+            nastepnie tworzy pusta mape itd-->
+            <util:map>
+                <entry key="2" value-ref="entry3"></entry>
+                <entry key="3" value-ref="entry4"></entry>
+            </util:map>
+        </property>
+    </bean>
+
+
+    <bean id="entry1" class="altkom.model.Entry">
+        <property name="id" value="1" />
+        <property name="category" value="SERVICE_DELIVERER" />
+        <property name="person">
+            <bean class="altkom.model.Person">
+                <constructor-arg>
+                    <value>1</value>
+                </constructor-arg>
+                <constructor-arg>
+                    <value>Jan</value>
+                </constructor-arg>
+                <constructor-arg>
+                    <value>Kowalski</value>
+                </constructor-arg>
+            </bean>
+        </property>
+        <property name="address">
+            <bean class="altkom.model.Address">
+                <property name="id" value="1" />
+                <property name="street" value="Stawki" />
+                <property name="number" value="2" />
+                <property name="city" value="Warszawa" />
+                <property name="postalCode" value="00-193" />
+            </bean>
+        </property>
+        <property name="phone">
+            <bean class="altkom.model.Phone">
+                <property name="id" value="1" />
+                <property name="phoneNumber" value="460 00 00" />
+                <property name="areaNumber" value="22" />
+                <property name="countryNumber" value="48" />
+                <property name="type" value="PUBLIC" />
+            </bean>
+        </property>
+    </bean>
+
+    <bean id="entry2" class="altkom.model.Entry">
+        <property name="id" value="2" />
+        <property name="category" value="SERVICE_DELIVERER" />
+        <property name="person">
+            <bean class="altkom.model.Person">
+                <constructor-arg>
+                    <value>2</value>
+                </constructor-arg>
+                <constructor-arg>
+                    <value>Tadeusz</value>
+                </constructor-arg>
+                <constructor-arg>
+                    <value>Nowak</value>
+                </constructor-arg>
+            </bean>
+        </property>
+        <property name="address">
+            <bean class="altkom.model.Address">
+                <property name="id" value="2" />
+                <property name="street" value="Chłodna" />
+                <property name="number" value="51" />
+                <property name="city" value="Warszawa" />
+                <property name="postalCode" value="00-334" />
+            </bean>
+        </property>
+        <property name="phone">
+            <bean class="altkom.model.Phone">
+                <property name="id" value="2" />
+                <property name="phoneNumber" value="460 86 00" />
+                <property name="areaNumber" value="22" />
+                <property name="countryNumber" value="48" />
+                <property name="type" value="PUBLIC" />
+            </bean>
+        </property>
+    </bean>
+
+    <bean id="entry3" class="altkom.model.Entry">
+        <property name="id" value="3" />
+        <property name="category" value="SERVICE_DELIVERER" />
+        <property name="person">
+            <bean class="altkom.model.Person">
+                <constructor-arg>
+                    <value>3</value>
+                </constructor-arg>
+                <constructor-arg>
+                    <value>Marek</value>
+                </constructor-arg>
+                <constructor-arg>
+                    <value>Nowicki</value>
+                </constructor-arg>
+            </bean>
+        </property>
+        <property name="address">
+            <bean class="altkom.model.Address">
+                <property name="id" value="3" />
+                <property name="street" value="Rejtana" />
+                <property name="number" value="11" />
+                <property name="city" value="Wrocław" />
+                <property name="postalCode" value="55-015" />
+            </bean>
+        </property>
+        <property name="phone">
+            <bean class="altkom.model.Phone">
+                <property name="id" value="3" />
+                <property name="phoneNumber" value="719 88 00" />
+                <property name="areaNumber" value="71" />
+                <property name="countryNumber" value="48" />
+                <property name="type" value="PUBLIC" />
+            </bean>
+        </property>
+    </bean>
+
+    <bean id="entry4" class="altkom.model.Entry">
+        <property name="id" value="4" />
+        <property name="category" value="SERVICE_DELIVERER" />
+        <property name="person">
+            <bean class="altkom.model.Person">
+                <constructor-arg>
+                    <value>4</value>
+                </constructor-arg>
+                <constructor-arg>
+                    <value>Andrzej</value>
+                </constructor-arg>
+                <constructor-arg>
+                    <value>Kownacki</value>
+                </constructor-arg>
+            </bean>
+        </property>
+        <property name="address">
+            <bean class="altkom.model.Address">
+                <property name="id" value="4" />
+                <property name="street" value=" Władysława IV" />
+                <property name="number" value="43" />
+                <property name="city" value="Gdynia" />
+                <property name="postalCode" value="81-395" />
+            </bean>
+        </property>
+        <property name="phone">
+            <bean class="altkom.model.Phone">
+                <property name="id" value="4" />
+                <property name="phoneNumber" value="785 33 00" />
+                <property name="areaNumber" value="58" />
+                <property name="countryNumber" value="48" />
+                <property name="type" value="PUBLIC" />
+            </bean>
+        </property>
+    </bean>
+
+</beans>
