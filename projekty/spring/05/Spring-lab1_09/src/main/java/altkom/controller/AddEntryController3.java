@@ -7,10 +7,8 @@ package altkom.controller;
 
 import altkom.model.Category;
 import altkom.model.Entry;
-import altkom.model.repository.PhoneBookRepository;
 import java.util.ArrayList;
 import java.util.List;
-import javax.annotation.Resource;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.ModelAttribute;
@@ -22,24 +20,12 @@ import org.springframework.web.bind.annotation.RequestMethod;
  * @author kursant5
  */
 @Controller
-@RequestMapping("/addEntry.do")
-public class AddEntryController {
+@RequestMapping("/addEntryAgainAndAgain.do")
+public class AddEntryController3 {
 
     private final static String FORM_VIEW = "addEntryForm";
 
     private final static String SUCCESS_VIEW = "home";
-
-    public List prepareCategories() {
-        List categories = new ArrayList();
-        categories.add(Category.DEFAULT);
-        categories.add(Category.CUSTOMER);
-        categories.add(Category.BUSINESS_PARTNER);
-        categories.add(Category.SERVICE_DELIVERER);
-
-        return categories;
-    }
-    @Resource(name = "inMemoryRepository")
-    private PhoneBookRepository phoneBookRepository;
 
     @RequestMapping(method = RequestMethod.GET)
     public String setupForm(Model model) {
@@ -52,12 +38,19 @@ public class AddEntryController {
     @RequestMapping(method = RequestMethod.POST)
     public String submitForm(@ModelAttribute Entry entry) {
         System.out.println("Category = " + entry.getCategory());
-        phoneBookRepository.save(entry);
-        phoneBookRepository.logToSysout();
-        System.out.println("car - marka: " + entry.getCar().getMarka());
-        System.out.println("car - kolor: " + entry.getCar().getKolor());
         System.out.println("komputer - wielkosc: " + entry.getKomputer().getWielkosc());
         System.out.println("komputer = nazwa: " + entry.getKomputer().getNazwa());
+
         return SUCCESS_VIEW;
+    }
+    
+        public List prepareCategories() {
+        List categories = new ArrayList();
+        categories.add(Category.DEFAULT);
+        categories.add(Category.CUSTOMER);
+        categories.add(Category.BUSINESS_PARTNER);
+        categories.add(Category.SERVICE_DELIVERER);
+
+        return categories;
     }
 }
