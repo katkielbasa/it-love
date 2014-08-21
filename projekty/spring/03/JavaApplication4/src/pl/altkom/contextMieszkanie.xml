@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<beans>
+    <bean id="mieszkanie" class="pl.altkom.Mieszkanie">
+        <property name="nazwa" value="Moje"/>
+        <property name="kolor" value="czarwony"/>
+    </bean>
+</beans>
