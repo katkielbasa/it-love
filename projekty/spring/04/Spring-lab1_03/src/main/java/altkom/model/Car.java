@@ -7,17 +7,24 @@
 package altkom.model;
 
 import org.apache.commons.lang.builder.ToStringBuilder;
-import org.springframework.stereotype.Component;
 
 /**
  *
  * @author kursant4
  */
-
-@Component   // tworzy sie bean w deklaracji xml, ale musi byc w xml na samej górze :<context:annotation-config/> i  <context:component-scan base-package="altkom.model"/>  , zeby czyta³o adnotacje
-public class Tablica {
+public class Car {
     
-    public String kolor= "bialy";
+    
+    private long key;
+    private String kolor;
+
+    public Long getKey() {
+        return key;
+    }
+
+    public void setKey(Long key) {
+        this.key = key;
+    }
 
     public String getKolor() {
         return kolor;
@@ -27,15 +34,10 @@ public class Tablica {
         this.kolor = kolor;
     }
     
-    
-    
     @Override
-	public String toString() {
+	public String toString() {    // metoda skopiowana z klasy Address
 		
 		return ToStringBuilder.reflectionToString( this );
 	}
-   
-    
-    
     
 }
