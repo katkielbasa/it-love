@@ -3,6 +3,14 @@ package altkom.model;
 import org.apache.commons.lang.builder.ToStringBuilder;
 
 public class Entry {
+
+    public Car2 getCar2() {
+        return car2;
+    }
+
+    public void setCar2(Car2 car2) {
+        this.car2 = car2;
+    }
 	
 	private Long id;
 	
@@ -13,6 +21,18 @@ public class Entry {
 	private Address address = new Address();
 	
 	private Phone phone = new Phone();
+        
+        private Car car = new Car();
+        
+        private Car2 car2 = new Car2();
+ 
+    public Car getCar() {
+        return car;
+    }
+
+    public void setCar(Car car) {
+        this.car = car;
+    }
 	
 	@Override
 	public String toString() {
