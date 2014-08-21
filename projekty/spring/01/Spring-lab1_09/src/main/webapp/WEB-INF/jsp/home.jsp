@@ -7,6 +7,13 @@
 		<li>
 			<a href="<c:url value="/addEntry.do" />" >Dodaj wpis</a>
 		</li>
+                <li>
+			<a href="<c:url value="/addEntryAgain.do" />" >Dodaj wpis2</a>
+		</li>
+                <li>
+			<a href="<c:url value="/addEntry3.do" />" > Dodaj wpis3
+                        </a>
+		</li>
 		<li>
 			<a href="<c:url value="/generateReport.do" />" >Generuj raport PDF</a>
 		</li>

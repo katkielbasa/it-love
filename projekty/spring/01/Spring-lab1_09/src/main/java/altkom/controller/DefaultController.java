@@ -8,7 +8,8 @@ public class DefaultController {
 	
 	@RequestMapping( value="/home.do" )
 	public String mainMenuHandler() {
-		return "home";
+	//uderzamy na home.do	
+            return "home";
 	}
 
 }

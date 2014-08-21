@@ -22,9 +22,9 @@ import org.springframework.web.bind.annotation.RequestMethod;
  * @author kursant1
  */
 @Controller
-@RequestMapping("/addEntry.do")
+@RequestMapping("/addEntryAgain.do")
 
-public class AddEntryController {
+public class AddEntryController2 {
 
     private final static String FORM_VIEW = "addEntryForm";
 
@@ -34,9 +34,9 @@ public class AddEntryController {
     private PhoneBookRepository phoneBookRepository;
 
     @RequestMapping(method = RequestMethod.GET)
-    
+
     public String setupForm(Model model) {
-        model.addAttribute("entry",new Entry());
+        model.addAttribute("entry", new Entry());
         model.addAttribute("categories", prepareCategories());
 
         return FORM_VIEW;
@@ -46,14 +46,12 @@ public class AddEntryController {
     public String submitForm(@ModelAttribute Entry entry) {
 
         System.out.println("Category = " + entry.getCategory());
-        phoneBookRepository.save(entry);
-        phoneBookRepository.logToSysout();
+        System.out.println("car-marka:" + entry.getCar().getMarka());
+        System.out.println("car-kolor:" + entry.getCar().getKolor());
         //  ---zapis do {  bazy   }  i zalogowanie
         return SUCCESS_VIEW;
-    
-    
+
     }
-    
 
     public List prepareCategories() {
         List categories = new ArrayList();
