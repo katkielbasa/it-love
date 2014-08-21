@@ -1,0 +1,15 @@
+
+<property name="entriesAsList">
+			<util:list value-type="altkom.model.Entry">
+				<ref local="entry1" />
+				<ref local="entry2" />
+			</util:list>
+		</property>
+
+
+<property name="entries">
+			<util:map>
+				<entry key="2" value-ref="entry3"></entry>
+				<entry key="3" value-ref="entry4"></entry>
+			</util:map>
+		</property>
