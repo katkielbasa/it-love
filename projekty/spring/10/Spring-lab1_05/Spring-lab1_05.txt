@@ -1,0 +1,37 @@
+<bean class="org.springframework.beans.factory.config.CustomEditorConfigurer">
+		<property name="customEditors">
+		<map>
+		<entry key="altkom.model.Address">
+			<bean class="altkom.model.editors.AddressEditor"/>
+		</entry>
+		<entry key="altkom.model.Person">
+			<bean class="altkom.model.editors.PersonEditor"/>
+		</entry>
+		</map>
+		</property>
+	</bean>
+
+	@Override
+	public void setAsText( String text ) throws IllegalArgumentException {
+            
+                System.out.println("**********" + text);
+		//Zaimplementuj metode. Przeksztalc lancuch znakow na obiekt Address
+		StringTokenizer tokenizer = new StringTokenizer(text,";");
+		Address address = new Address();
+		address.setId(Long.valueOf(tokenizer.nextToken()));
+		address.setStreet(tokenizer.nextToken());
+		address.setNumber(tokenizer.nextToken());
+		address.setPostalCode(tokenizer.nextToken());
+		address.setCity(tokenizer.nextToken());
+		setValue(address);
+	}
+
+        @Override
+	public void setAsText( String text ) throws IllegalArgumentException {
+
+		StringTokenizer tokenizer = new StringTokenizer(text,";");
+		Person person = new Person(	Long.valueOf(tokenizer.nextToken()),
+									tokenizer.nextToken(),
+									tokenizer.nextToken());
+		setValue( person );
+	}
