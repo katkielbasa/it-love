@@ -23,7 +23,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 @RequestMapping("/addEntryAgain2.do")
 public class AddEntryController3 {
 
-    private final static String FORM_VIEW = "addEntryForm";
+    private final static String FORM_VIEW = "addEntryForm3";
 
     private final static String SUCCESS_VIEW = "home";
 
