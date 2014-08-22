@@ -8,8 +8,10 @@ import org.springframework.orm.hibernate3.HibernateTemplate;
 import org.springframework.stereotype.Repository;
 
 import altkom.model.Entry;
+import org.springframework.transaction.annotation.Transactional;
 
 @Repository
+@Transactional
 public class HibernateRepository
 		implements PhoneBookRepository {
 
@@ -35,7 +37,7 @@ public class HibernateRepository
 	@Override
 	public Entry findById( Long id ) {
 		List result = hibernateTemplate
-			.findByNamedQueryAndNamedParam( "Entry.findById", "employeeId", id );
+			.findByNamedQueryAndNamedParam( "Entry.findById", "entryId", id );
 		
 		return (Entry) result.get( 0 );
 	}
