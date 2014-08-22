@@ -24,7 +24,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 @RequestMapping( "/addEntry3.do" )
 public class AddEntryController3 {
     
-       private final static String FORM_VIEW = "addEntryForm";
+       private final static String FORM_VIEW = "addEntryForm3";
 	
 	private final static String SUCCESS_VIEW = "home";
         
@@ -45,9 +45,6 @@ System.out.println( "Category = " + entry.getCategory() );
 System.out.println("komputer - wielkosc: " + entry.getKomputer().getWielkosc()) ;
 System.out.println("komputer - nazwa: " + entry.getKomputer().getNazwa()) ;
 
-// mozna tez wyswietlic wszystkie obiekty przez system.out.println:
-System.out.println("car - marka: " + entry.getCar().getMarka()) ;
-System.out.println("car - kolor: " + entry.getCar().getKolor()) ;
 
 
 //  ---zapis do bazy i zalogowanie

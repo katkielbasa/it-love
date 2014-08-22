@@ -41,7 +41,12 @@ public class AddEntryController {
 	@RequestMapping( method = RequestMethod.POST )
 	public String submitForm( @ModelAttribute Entry entry ) {
 		
-              
+       System.out.println( "Category = " + entry.getCategory() );
+	
+System.out.println("person - imie: " + entry.getPerson().getName()) ;
+System.out.println("person - nazwisko: " + entry.getPerson().getSurname()) ;       
+            
+            
 System.out.println( "Category = " + entry.getCategory() );
 		phoneBookRepository.save( entry );
 		phoneBookRepository.logToSysout();
