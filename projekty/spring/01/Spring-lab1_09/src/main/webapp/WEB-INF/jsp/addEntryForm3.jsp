@@ -22,21 +22,20 @@
                 </tr>
             </table>
             <table border="1">
+
                 <tr>
-                    <td>Imię:</td>
+                    <td>Wielkość:</td>
                     <td>
-                        <form:input path="person.name" />
+                        <form:input path="komputer.wielkosc" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>Nazwa:</td>
+                    <td>
+                        <form:input path="komputer.nazwa" />
                     </td>
                 </tr>
 
-                <tr>
-                    <td>Nazwisko:</td>
-                    <td>
-                        <form:input path="person.surname" />
-                    </td>
-                </tr>
-              
-               
             </table>
             <hr/>
 

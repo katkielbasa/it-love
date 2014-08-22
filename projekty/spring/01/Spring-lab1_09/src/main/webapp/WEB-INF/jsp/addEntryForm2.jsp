@@ -22,20 +22,19 @@
                 </tr>
             </table>
             <table border="1">
+                
                 <tr>
-                    <td>Imię:</td>
+                    <td>Marka:</td>
                     <td>
-                        <form:input path="person.name" />
+                        <form:input path="car.marka" />
                     </td>
                 </tr>
-
                 <tr>
-                    <td>Nazwisko:</td>
+                    <td>Kolor:</td>
                     <td>
-                        <form:input path="person.surname" />
+                        <form:input path="car.kolor" />
                     </td>
                 </tr>
-              
                
             </table>
             <hr/>

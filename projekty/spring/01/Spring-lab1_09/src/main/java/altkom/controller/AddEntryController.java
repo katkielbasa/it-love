@@ -48,9 +48,14 @@ public class AddEntryController {
         System.out.println("Category = " + entry.getCategory());
         phoneBookRepository.save(entry);
         phoneBookRepository.logToSysout();
+        System.out.println("Imiê: " + entry.getPerson().getName());
+        System.out.println("Nazwisko: " + entry.getPerson().getSurname());
         //  ---zapis do {  bazy   }  i zalogowanie
         return SUCCESS_VIEW;
     
+        
+       
+      
     
     }
     
