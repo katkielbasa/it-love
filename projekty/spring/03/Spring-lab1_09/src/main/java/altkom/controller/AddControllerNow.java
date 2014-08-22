@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
  @Controller
 @RequestMapping( "/addEntryNow.do" )
 public class AddControllerNow {
-    private final static String FORM_VIEW = "addEntryForm";
+    private final static String FORM_VIEW = "addControllerNow";
 	
 	private final static String SUCCESS_VIEW = "home";
     @RequestMapping( method = RequestMethod.GET )
@@ -33,8 +33,8 @@ public class AddControllerNow {
         System.out.println("komputer-wielkosc:"+ entry.getKomputer().getWielkosc());
         System.out.println("komputer-nazwa:"+ entry.getKomputer().getNazwa());
         	
-        System.out.println("car-marka:"+ entry.getCar().getMarka());
-        System.out.println("car-kolor:"+ entry.getCar().getKolor());
+        //System.out.println("car-marka:"+ entry.getCar().getMarka());
+       // System.out.println("car-kolor:"+ entry.getCar().getKolor());
         
 		return SUCCESS_VIEW;
         

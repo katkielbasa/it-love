@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans>
+    <bean id="okret" class="pracaWdomu.Okret">
+        <property name="kolor" value="zielony"/>
+        <property name="ladunek" value="banany"/>
+    </bean>
+    
+</beans>

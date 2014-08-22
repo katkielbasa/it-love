@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans>
+    <bean id="kartkowka" class="pracaWdomu.Kartkowka">
+        <property name="ocena" value="5" />
+       
+</beans>
+
+<beans>
+    <bean id="kartkowka" class="pracaWdomu.Kartkowka">
+      <contructor-arg>
+          <value>trudne</value>
+      </contructor-arg>
+</beans>

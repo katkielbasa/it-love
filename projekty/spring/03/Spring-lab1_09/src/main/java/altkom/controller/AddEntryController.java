@@ -35,6 +35,8 @@ public class AddEntryController{
 	public String submitForm( @ModelAttribute Entry entry ) {
 	
 System.out.println( "Category = " + entry.getCategory() );
+System.out.println("person-name:"+ entry.getPerson().getName());
+        System.out.println("person-surname:"+ entry.getPerson().getSurname());
 		phoneBookRepository.save( entry );
 		phoneBookRepository.logToSysout();
 

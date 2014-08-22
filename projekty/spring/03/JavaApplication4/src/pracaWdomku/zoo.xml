@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zoo>
+    <ptaki>
+        <latajace>orzel</latajace>
+        <latajace>sep</latajace>
+        <nieloty>kiwi</nieloty>
+        <nieloty>pingwin</nieloty>
+    </ptaki>
+    <ryby>
+        <rafowe>skrzydlica</rafowe>
+        <rafowe>blazenek</rafowe>
+        <drapiezne>rekin</drapiezne>
+    </ryby>
+    <ssaki>
+        <drapiezniki>lew</drapiezniki>
+        <drapiezniki>wilk</drapiezniki>
+        <wegetarianie>jelonek</wegetarianie>
+    </ssaki>    
+</zoo>

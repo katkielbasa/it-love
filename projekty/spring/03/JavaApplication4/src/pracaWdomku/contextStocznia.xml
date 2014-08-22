@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+    <bean id="stocznia" class="pracaWdomku.Stocznia">
+        <property name="zadluzenie" value="duze"/>
+        <property name="okret" value="wojenny"/>
+        <property name="jaht" value="drogi"/>
+    </bean>   
+</beans>
