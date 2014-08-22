@@ -37,32 +37,8 @@
 				</td>
 			</tr>
                         
-                        <tr>
-				<td>Marka:</td>
-				<td>
-					<form:input path="car.marka" />
-				</td>
-			</tr>
-                        
-                        <tr>
-				<td>Kolor:</td>
-				<td>
-					<form:input path="car.kolor" />
-				</td>
-			</tr>
-                         <tr>
-				<td>Wielkosc komputera:</td>
-				<td>
-					<form:input path="komputer.wielkosc" />
-				</td>
-			</tr>
-                        
-                        <tr>
-				<td>Nazwa komputera:</td>
-				<td>
-					<form:input path="komputer.nazwa" />
-				</td>
-			</tr>
+                   
+                       
 		</table>
                 <hr/>
 
