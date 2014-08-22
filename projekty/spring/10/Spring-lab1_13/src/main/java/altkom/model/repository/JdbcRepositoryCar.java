@@ -1,26 +1,37 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
 package altkom.model.repository;
 
+import altkom.model.Car;
 import altkom.model.Entry;
 import altkom.model.EntryCategory;
-import altkom.model.Person;
+
 import altkom.model.util.AssertionUtil;
-import altkom.model.util.EntryUtil;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.List;
 import javax.sql.DataSource;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.jdbc.core.RowMapper;
 import org.springframework.stereotype.Repository;
 
-//@Repository
-public class JdbcRepository implements PhoneBookRepository {
+/**
+ *
+ * @author kursant10
+ */
 
-	private String PERSON_SAVE_SQL = "insert into pb_persons(name,surname) values(?,?)";
+    
+//@Repository
+public class JdbcRepositoryCar implements PhoneBookRepository {
+
+	private String CAR_SAVE_SQL = "insert into pb_car(marka,kolor) values(?,?)";
 	
-	private String PERSON_FIND_SQL = "select * from pb_persons";
+	private String CAR_FIND_SQL = "select * from pb_car";
 	
 	private JdbcTemplate jdbcTemplate;
 	
@@ -29,14 +40,15 @@ public class JdbcRepository implements PhoneBookRepository {
 		jdbcTemplate = new JdbcTemplate( dataSource );
 	}
 	
-	@Override
+    
+@Override
 	public void save( Entry entry ) {
-		AssertionUtil.assertPerson( entry );
 		
-                Object[] objects = {entry.getPerson().getName(),
-                                    entry.getPerson().getSurname() };
+		
+                Object[] objects = {entry.getCar().getMarka(),
+                                    entry.getCar().getKolor() };
                 
-		jdbcTemplate.update( PERSON_SAVE_SQL, objects);
+		jdbcTemplate.update( CAR_SAVE_SQL, objects);
 	}
 	
 	@Override
@@ -51,18 +63,18 @@ public class JdbcRepository implements PhoneBookRepository {
 					Entry entry = new Entry();
                                         entry.setCategory( EntryCategory.DEFAULT );
                                         
-                                        Person person = entry.getPerson();
+                                        Car car = entry.getCar();
 		
-                                        person.setName( rs.getString( "name" ));
-                                        person.setSurname( rs.getString( "surname" ) );
+                                        car.setMarka( rs.getString( "marka" ));
+                                        car.setKolor( rs.getString( "kolor" ) );
 					
-                                        entry.setPerson(person);
+                                        entry.setCar(car);
                                         
 					return entry;
 				}
                 };		
 		
-                List entries = jdbcTemplate.query( PERSON_FIND_SQL, rowMapper);
+                List entries = jdbcTemplate.query( CAR_FIND_SQL, rowMapper);
                                 
 		return entries;
 	}
@@ -87,3 +99,4 @@ public class JdbcRepository implements PhoneBookRepository {
 	}
 	
 }
+

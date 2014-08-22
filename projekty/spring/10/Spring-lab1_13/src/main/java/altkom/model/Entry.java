@@ -14,6 +14,9 @@ public class Entry {
 	private Address address = new Address();
 	
 	private Phone phone = new Phone();
+        private Car car = new Car();
+        
+        private Komputer komputer = new Komputer();
 	
 	public String categoryAsPrettyString() {
 		return category.toString();
@@ -98,5 +101,21 @@ public class Entry {
 	
 		this.phone = phone;
 	}
+
+    public Car getCar() {
+        return car;
+    }
+
+    public void setCar(Car car) {
+        this.car = car;
+    }
+
+    public Komputer getKomputer() {
+        return komputer;
+    }
+
+    public void setKomputer(Komputer komputer) {
+        this.komputer = komputer;
+    }
 	
 }

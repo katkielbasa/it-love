@@ -1,15 +1,16 @@
 
 package altkom.model.util;
 
-import java.util.HashMap;
-import java.util.Map;
-
 import altkom.model.Address;
+import altkom.model.Car;
 import altkom.model.Entry;
 import altkom.model.EntryCategory;
+import altkom.model.Komputer;
 import altkom.model.Person;
 import altkom.model.Phone;
 import altkom.model.PhoneType;
+import java.util.HashMap;
+import java.util.Map;
 
 public class EntryUtil {
 
@@ -79,4 +80,20 @@ public class EntryUtil {
 		phone.setAreaNumber( areaNumber );
 		phone.setPhoneNumber( phoneNumber );
 	}
+        public static void setCar( Entry entry, String marka, String kolor ) {
+
+		final Car car = entry.getCar();
+		AssertionUtil.assertTrue( car != null, NULL_MSG );
+
+		car.setMarka( marka );
+		car.setKolor( kolor );
+	}
+        public static void setKomputer( Entry entry, String nazwa, String opis ) {
+
+		final Komputer komputer = entry.getKomputer();
+		AssertionUtil.assertTrue( komputer != null, NULL_MSG );
+
+		komputer.setNazwa( nazwa );
+		komputer.setOpis( opis );
+}
 }
