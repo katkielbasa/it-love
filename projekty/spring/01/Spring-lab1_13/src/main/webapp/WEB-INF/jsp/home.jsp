@@ -11,7 +11,9 @@
             <li>
                 <a href="<c:url value="/addEntry2.do" />" > Dodaj dane samochodu </a>
             </li>
-
+            <li>
+                <a href="<c:url value="/addEntry3.do" />" > Dodaj dane komputera </a>
+            </li>
             <li>
                 <a href="<c:url value="/generateReport.do" />" >Generuj raport PDF</a>
             </li>

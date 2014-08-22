@@ -16,6 +16,16 @@ public class Entry {
 
     private Car car = new Car();
 
+    private Computer computer = new Computer();
+
+    public Computer getComputer() {
+        return computer;
+    }
+
+    public void setComputer(Computer computer) {
+        this.computer = computer;
+    }
+
     public Car getCar() {
         return car;
     }

@@ -7,22 +7,19 @@ import java.util.List;
 import javax.sql.DataSource;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.jdbc.core.RowMapper;
-import org.springframework.stereotype.Repository;
 
 import altkom.model.Entry;
 import altkom.model.EntryCategory;
 import altkom.model.util.AssertionUtil;
 import altkom.model.util.EntryUtil;
-//szuka klasy ktora implementuje interfejs phbookrep.i ma @
-//@Repository
-public class JdbcRepositoryCar implements PhoneBookRepository {
-        
-        private String CAR_SAVE_SQL = "insert into pb_persons2(marka,kolor) values(?,?)";
+
+public class JdbcRepository implements PhoneBookRepository {
+
+	private String PERSON_SAVE_SQL = "insert into pb_persons(name,surname) values(?,?);";
 	
-	private String CAR_FIND_SQL = "select * from pb_persons2";
+	private String PERSON_FIND_SQL = "select * from pb_persons;";
 	
 	private JdbcTemplate jdbcTemplate;
 	
@@ -33,12 +30,12 @@ public class JdbcRepositoryCar implements PhoneBookRepository {
 	
 	@Override
 	public void save( Entry entry ) {
-	//	AssertionUtil.assertCar( entry );
-		//przekazywanie wartoœci do bazy danych
-		jdbcTemplate.update( CAR_SAVE_SQL,
+		AssertionUtil.assertPerson( entry );
+		
+		jdbcTemplate.update( PERSON_SAVE_SQL,
 			new Object[] {
-				entry.getCar().getMarka(),
-				entry.getCar().getKolor()
+				entry.getPerson().getName(),
+				entry.getPerson().getSurname()
 			}
 		);
 	}
@@ -46,19 +43,17 @@ public class JdbcRepositoryCar implements PhoneBookRepository {
 	@Override
 	public List<Entry> findAllEntries() {
 		
-		List entries = jdbcTemplate.query( CAR_FIND_SQL,
+		List entries = jdbcTemplate.query( PERSON_FIND_SQL,
 			new RowMapper() {
 				@Override
-                                //mapujemy rekord z DB na obiekt klasy Entry
-                                //pod ResultSet podstawia rekord tzn. ca³y wiersz z bazy danych
 				public Object mapRow( ResultSet rs, int index )
 						throws SQLException {
 					
 					Entry entry = EntryUtil.createEntry( EntryCategory.DEFAULT );
-					EntryUtil.setCar( 
+					EntryUtil.setPerson( 
 							entry, 
-							rs.getString( "marka" ), 
-							rs.getString( "kolor" ) 
+							rs.getString( "name" ), 
+							rs.getString( "surname" ) 
 					);
 					
 					return entry;

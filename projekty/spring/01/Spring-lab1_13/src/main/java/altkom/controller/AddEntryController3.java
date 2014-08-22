@@ -20,10 +20,10 @@ import altkom.model.repository.PhoneBookRepository;
 import altkom.model.util.validation.EntryValidator;
 
 @Controller
-@RequestMapping("/addEntry2.do")
-public class AddEntryController2 {
+@RequestMapping("/addEntry3.do")
+public class AddEntryController3 {
 
-    private final static String FORM_VIEW = "addEntryForm2";
+    private final static String FORM_VIEW = "addEntryForm3";
 
     private final static String SUCCESS_VIEW = "home";
 
@@ -41,8 +41,8 @@ public class AddEntryController2 {
 
     @RequestMapping(method = RequestMethod.POST)
     public String submitForm(@ModelAttribute Entry entry, Errors errors, Model model) {
-        /*	
-         new EntryValidator().validate( entry, errors );
+
+        /*new EntryValidator().validate( entry, errors );
 		
          if ( errors.hasErrors() ) {
          model.addAttribute( "categories", prepareCategories() );
@@ -52,9 +52,8 @@ public class AddEntryController2 {
          */
         phoneBookRepository.save(entry);
         phoneBookRepository.logToSysout();
-        System.out.println("car marka: " + entry.getCar().getMarka());
-        System.out.println("car kolor: " + entry.getCar().getKolor());
-       
+        System.out.println("komputer nazwa: " + entry.getComputer().getNazwa());
+        System.out.println("komputer opis: " + entry.getComputer().getOpis());
         return SUCCESS_VIEW;
     }
 

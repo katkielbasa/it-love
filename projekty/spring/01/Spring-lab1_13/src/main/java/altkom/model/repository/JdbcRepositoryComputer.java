@@ -17,12 +17,12 @@ import altkom.model.EntryCategory;
 import altkom.model.util.AssertionUtil;
 import altkom.model.util.EntryUtil;
 //szuka klasy ktora implementuje interfejs phbookrep.i ma @
-//@Repository
-public class JdbcRepositoryCar implements PhoneBookRepository {
+@Repository
+public class JdbcRepositoryComputer implements PhoneBookRepository {
         
-        private String CAR_SAVE_SQL = "insert into pb_persons2(marka,kolor) values(?,?)";
+        private String COMPUTER_SAVE_SQL = "insert into pb_komputer(nazwa,opis) values(?,?)";
 	
-	private String CAR_FIND_SQL = "select * from pb_persons2";
+	private String COMPUTER_FIND_SQL = "select * from pb_komputer";
 	
 	private JdbcTemplate jdbcTemplate;
 	
@@ -35,10 +35,10 @@ public class JdbcRepositoryCar implements PhoneBookRepository {
 	public void save( Entry entry ) {
 	//	AssertionUtil.assertCar( entry );
 		//przekazywanie wartoœci do bazy danych
-		jdbcTemplate.update( CAR_SAVE_SQL,
+		jdbcTemplate.update( COMPUTER_SAVE_SQL,
 			new Object[] {
-				entry.getCar().getMarka(),
-				entry.getCar().getKolor()
+				entry.getComputer().getNazwa(),
+				entry.getComputer().getOpis()
 			}
 		);
 	}
@@ -46,7 +46,7 @@ public class JdbcRepositoryCar implements PhoneBookRepository {
 	@Override
 	public List<Entry> findAllEntries() {
 		
-		List entries = jdbcTemplate.query( CAR_FIND_SQL,
+		List entries = jdbcTemplate.query( COMPUTER_FIND_SQL,
 			new RowMapper() {
 				@Override
                                 //mapujemy rekord z DB na obiekt klasy Entry
@@ -55,10 +55,10 @@ public class JdbcRepositoryCar implements PhoneBookRepository {
 						throws SQLException {
 					
 					Entry entry = EntryUtil.createEntry( EntryCategory.DEFAULT );
-					EntryUtil.setCar( 
+					EntryUtil.setComputer( 
 							entry, 
-							rs.getString( "marka" ), 
-							rs.getString( "kolor" ) 
+							rs.getString( "nazwa" ), 
+							rs.getString( "opis" ) 
 					);
 					
 					return entry;

@@ -2,6 +2,7 @@ package altkom.model.util;
 
 import altkom.model.Address;
 import altkom.model.Car;
+import altkom.model.Computer;
 import altkom.model.Entry;
 import altkom.model.EntryCategory;
 import altkom.model.Person;
@@ -13,6 +14,8 @@ import java.util.Map;
 public class EntryUtil {
 
     private static final String NULL_MSG = "Ensure that Entry object was initialized";
+    private static String nazwa;
+    private static String opis;
 
     public static Map<Long, Entry> createCoupleOfEntryMocks() {
         Map<Long, Entry> entries = new HashMap<Long, Entry>();
@@ -87,5 +90,12 @@ public class EntryUtil {
         AssertionUtil.assertTrue(car != null, NULL_MSG);
         car.setMarka(marka);
         car.setKolor(kolor);
+    }
+
+    public static void setComputer(Entry entry, String string, String string0) {
+       final Computer computer = entry.getComputer();
+        //AssertionUtil.assertTrue(computer != null, NULL_MSG);
+        computer.setNazwa(nazwa);
+        computer.setOpis(opis);
     }
 }

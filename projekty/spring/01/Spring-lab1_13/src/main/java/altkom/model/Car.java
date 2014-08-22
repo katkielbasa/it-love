@@ -29,4 +29,8 @@ public class Car {
     public void setKolor(String kolor) {
         this.kolor = kolor;
     }
+
+    public String getOpis() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
 }
