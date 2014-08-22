@@ -1,8 +1,27 @@
 package altkom.model;
 
+import javax.persistence.CascadeType;
+import javax.persistence.Entity;
+import javax.persistence.EnumType;
+import javax.persistence.Enumerated;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.NamedQueries;
+import javax.persistence.NamedQuery;
+import javax.persistence.OneToOne;
+import javax.persistence.SequenceGenerator;
+import javax.persistence.Table;
+
 import org.apache.commons.lang.builder.ToStringBuilder;
 
-
+@Entity
+@Table( name="pb_entries" )
+@NamedQueries({
+	@NamedQuery( name="Entry.findAll", query="from Entry" ), // Entry to jest nazwa klasy a nie tabeli
+	@NamedQuery( name="Entry.findById", query="from Entry e where e.id = :entryId" )
+}
+)
 public class Entry {
 	
 	private Long id;
@@ -14,11 +33,6 @@ public class Entry {
 	private Address address = new Address();
 	
 	private Phone phone = new Phone();
-        
-        private Car car = new Car();
-        
-          private Komputer komputer = new Komputer();
-        
 	
 	public String categoryAsPrettyString() {
 		return category.toString();
@@ -46,6 +60,8 @@ public class Entry {
 		return ToStringBuilder.reflectionToString( this );
 	}
 	
+	@Id
+	@GeneratedValue( strategy=GenerationType.AUTO )
 	public Long getId() {
 	
 		return id;
@@ -56,31 +72,30 @@ public class Entry {
 		this.id = id;
 	}
 
-
+	@Enumerated( EnumType.STRING )
 	public EntryCategory getCategory() {
 	
 		return category;
 	}
 
-	
+	@OneToOne( cascade=CascadeType.ALL )
 	public Person getPerson() {
 	
 		return person;
 	}
 
-	
+	@OneToOne( cascade=CascadeType.ALL )
 	public Address getAddress() {
 	
 		return address;
 	}
 
-	
+	@OneToOne( cascade=CascadeType.ALL )
 	public Phone getPhone() {
 	
 		return phone;
 	}
 
-	
 	public void setCategory( EntryCategory category ) {
 	
 		this.category = category;
@@ -103,21 +118,5 @@ public class Entry {
 	
 		this.phone = phone;
 	}
-
-         public Car getCar() {
-        return car;
-    }
-
-         public void setCar(Car car) {
-        this.car = car;
-    }
-
-    public Komputer getKomputer() {
-        return komputer;
-    }
-
-    public void setKomputer(Komputer komputer) {
-        this.komputer = komputer;
-    }
 	
 }

@@ -9,6 +9,7 @@ package altkom.model.repository;
 import altkom.model.Car;
 import altkom.model.Entry;
 import altkom.model.EntryCategory;
+import altkom.model.Komputer;
 import altkom.model.util.AssertionUtil;
 import altkom.model.util.EntryUtil;
 import java.sql.ResultSet;
@@ -25,13 +26,13 @@ import org.springframework.stereotype.Repository;
  * @author kursant4
  */
 
- //@Repository
-public class JdbcRepositoryCar implements PhoneBookRepository {
+ @Repository
+public class JdbcRepositoryKomputer implements PhoneBookRepository {
    
 
-	private String CAR_SAVE_SQL = "insert into pb_persons2 (marka,kolor) values (?,?)";
+	private String KOMPUTER_SAVE_SQL = "insert into pb_komputer (nazwa,opis) values (?,?)";
 	
-	private String CAR_FIND_SQL = "select * from pb_persons2";
+	private String KOMPUTER_FIND_SQL = "select * from pb_komputer";
 	
 	private JdbcTemplate jdbcTemplate;
 	
@@ -44,9 +45,9 @@ public class JdbcRepositoryCar implements PhoneBookRepository {
 	public void save( Entry entry ) {
 		
 		
-                Object[] objects = {entry.getCar().getMarka(), entry.getCar().getKolor() };
+                Object[] objects = {entry.getKomputer().getNazwa(), entry.getKomputer().getOpis() };
                 
-		jdbcTemplate.update( CAR_SAVE_SQL, objects);
+		jdbcTemplate.update( KOMPUTER_SAVE_SQL, objects);
 	}
 	
 	@Override
@@ -61,18 +62,18 @@ public class JdbcRepositoryCar implements PhoneBookRepository {
 					Entry entry = new Entry();
                                         entry.setCategory( EntryCategory.DEFAULT );
                                         
-                                        Car car = entry.getCar();
+                                       Komputer komputer = entry.getKomputer();
 		
-                                        car.setMarka( rs.getString( "marka" ));
-                                        car.setKolor( rs.getString( "kolor" ) );
+                                        komputer.setNazwa( rs.getString( "nazwa" ));
+                                        komputer.setOpis( rs.getString( "opis" ) );
 					
-                                        entry.setCar(car);
+                                        entry.setKomputer(komputer);
                                         
 					return entry;
 				}
                 };		
 		
-                List entries = jdbcTemplate.query( CAR_FIND_SQL, rowMapper);
+                List entries = jdbcTemplate.query( KOMPUTER_FIND_SQL, rowMapper);
                                 
 		return entries;
 	}
