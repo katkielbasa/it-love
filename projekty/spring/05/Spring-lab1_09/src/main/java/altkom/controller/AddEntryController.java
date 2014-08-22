@@ -54,10 +54,8 @@ public class AddEntryController {
         System.out.println("Category = " + entry.getCategory());
         phoneBookRepository.save(entry);
         phoneBookRepository.logToSysout();
-        System.out.println("car - marka: " + entry.getCar().getMarka());
-        System.out.println("car - kolor: " + entry.getCar().getKolor());
-        System.out.println("komputer - wielkosc: " + entry.getKomputer().getWielkosc());
-        System.out.println("komputer = nazwa: " + entry.getKomputer().getNazwa());
+        System.out.println("imie: " + entry.getPerson().getName());
+        System.out.println("nazwisko: " + entry.getPerson().getSurname());
         return SUCCESS_VIEW;
     }
 }

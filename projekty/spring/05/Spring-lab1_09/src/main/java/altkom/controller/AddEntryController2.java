@@ -7,8 +7,10 @@ package altkom.controller;
 
 import altkom.model.Category;
 import altkom.model.Entry;
+import altkom.model.repository.PhoneBookRepository;
 import java.util.ArrayList;
 import java.util.List;
+import javax.annotation.Resource;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.ModelAttribute;
@@ -23,9 +25,12 @@ import org.springframework.web.bind.annotation.RequestMethod;
 @RequestMapping("/addEntryAgain.do")
 public class AddEntryController2 {
 
-    private final static String FORM_VIEW = "addEntryForm";
+    private final static String FORM_VIEW = "addEntryForm2";
 
     private final static String SUCCESS_VIEW = "home";
+
+    @Resource(name = "inMemoryRepository")
+    private PhoneBookRepository phoneBookRepository;
 
     @RequestMapping(method = RequestMethod.GET)
     public String setupForm(Model model) {
@@ -38,10 +43,10 @@ public class AddEntryController2 {
     @RequestMapping(method = RequestMethod.POST)
     public String submitForm(@ModelAttribute Entry entry) {
         System.out.println("Category = " + entry.getCategory());
+        phoneBookRepository.save(entry);
+        phoneBookRepository.logToSysout();
         System.out.println("car - marka: " + entry.getCar().getMarka());
         System.out.println("car - kolor: " + entry.getCar().getKolor());
-        System.out.println("komputer - wielkosc: " + entry.getKomputer().getWielkosc());
-        System.out.println("komputer = nazwa: " + entry.getKomputer().getNazwa());
 
         return SUCCESS_VIEW;
     }

@@ -8,11 +8,10 @@ import altkom.model.Mieszkanie;
 import altkom.model.Okno;
 import altkom.model.Person;
 import altkom.model.Sciana;
-import org.springframework.beans.factory.BeanFactory;
-import org.springframework.beans.factory.xml.XmlBeanFactory;
+
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
-import org.springframework.core.io.ClassPathResource;
+
 
 public class Lab0 {
 
