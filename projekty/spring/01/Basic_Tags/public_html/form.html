@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+
+    </head>
+    <body>
+        <form method="POST">
+            Nazwisko:<input type="text"> <br/>
+            <label for="firstName">Imię</label>
+            <input id="firstName" name="mojeImię" type="text"/><br/>
+            <!--mojeImie - do serwera; firstName, lub wszystkie pola tekstowe - dla CSS-->
+            <label for="password">Hasło:</label>
+            <input id="password" name="password" type="password"/><br/>
+            <label for="accept">Akceptuje regulamin:</label>
+            <input id="accept" name="accept" type="checkbox" checked="checked"/><br/>
+
+            <label>Ulubiony kolor:</label><br/>
+            <label for="red">Czerwony:</label>
+            <input id="red" name="color" type="radio"/>
+            <label for="green">Zielony:</label>
+            <input id="green" name="color" type="radio"/>
+            <label for="yellow">Żółty:</label>
+            <input id="yellow" name="color" type="radio"/>
+            <label for="blue">Niebieski:</label>
+            <input id="blue" name="color" type="radio"/>
+            <select id="season" name="season" multiple="multiple">
+                <!--multiple mozna wybrac wiecej niz 1 wartosc -->
+                <optgroup label="Ciepłe">
+                    <option>Wiosna</option>
+                    <option value="2" selected="selected">Lato</option>
+                </optgroup>
+                <optgroup label="Zimne">
+                    <option value="3" selected="selected">Jesień</option>
+                    <option>Zima</option>
+                </optgroup>
+            </select>
+            <br/>
+            <input type="submit" value="Wyślij"/>
+            <input type="reset" value="Resetuj"/>
+        </form>
+    </body>
+</html>
+ 

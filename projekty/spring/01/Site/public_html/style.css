@@ -1,0 +1,202 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2014-08-26, 10:30:33
+    Author     : kursant1
+
+body{
+    border: 1px solid red;
+    padding: 0;
+    margin: 10px 40px 5px;
+}*/
+body{
+    padding:0 ;
+    margin: 0;
+    font-family: sans-serif;
+}
+#header{
+    height: 80px;
+    border: 1px solid black;
+    background-image: url("images/gotowanie2.jpg");
+    background-repeat: no-repeat;
+    background-position: -30 px -60px;
+    /*opacity: 0.2;*/
+    /*przezroczystosc*/
+    padding: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+
+
+}
+#title{
+    font-size: 38px;
+    padding: 5px 0 5px;
+}
+#subtitle{
+    font-size: 16px;
+}
+#main-menu{
+    background: cornsilk;
+    height: 34px;
+    border-top: 1px solid silver;
+    border-bottom: 1px solid silver;
+}
+#main-menu ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 800px;
+    margin: 0 auto;
+}
+#main-menu ul li{
+    width: 160px;
+    /*height: 30px;*/
+    font-size: 14px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+
+    line-height: 30px;
+    float:left;
+}
+#main-menu ul li a, #main-menu ul li a:visited, #main-menu ul li a:active {
+    text-decoration: none;
+    /*bez podkreslenia*/
+    /*    background: red;*/
+    width: 140px;
+    padding: 2px 10px;
+    display: block;
+    color: black;
+}
+/*float- układaj 1 obok drugiego*/
+
+/*:hover- pseudoselektor*/
+#main-menu ul li a:hover{
+    background: wheat;
+    color: burlywood;
+    border-radius: 10px;
+}
+#side-menu{
+    /*background-color: green;*/
+    float:left;
+    width: 200px;
+    min-height: 400px;
+    /*color: white;*/
+}
+#main-content{
+    background-color: lightgoldenrodyellow;
+    /*    min-height: 400px;
+        border-left: 1px solid blanchedalmond;*/
+    position: relative;
+    left: 20px;
+    float: left;
+    padding-right: 60px;
+    background: linear-gradient(lemonchiffon 65%,lightgoldenrodyellow 10%,lavender 25%);
+}
+#footer{
+    clear:both;
+    background-color: violet;
+    text-align: center;
+    color:white;
+    font-size: 16px;
+    line-height: 18px;
+    font-style:italic;
+}
+img{
+    padding: 4px;
+    border: 1px solid lightblue;
+    box-shadow: 2px 2px 3px silver;
+    transform:rotate(5deg);
+    margin: 15px;
+    margin-left: 30px;
+    opacity: 0.6;
+    transition: opacity 2s, width 1s;
+    transition-timing-function: ease-in;
+    width:250px;
+}
+img:hover{
+    opacity: 1;
+    width: 300px;
+}
+h1, h2{
+    font-weight: normal;
+    color: cornflowerblue;
+    text-shadow: 2px 2px 2px silver;
+    margin:12px;
+
+    /*    margin: 0;*/
+
+}
+#main-content table{
+    position: absolute;
+    top: 65px;
+    left: 360px;
+    width: 300px;
+    /*border-collapse: collapse;*/
+    border: 1px solid grey;
+}
+#main-content table tr td{
+    text-align: center;
+
+}
+#main-content table th{
+    background: lightblue;
+    color: white;
+    padding: 4px 8px;
+
+
+}
+#main-content table tr td, #main-content table tr th{
+    border: 1px solid lightskyblue;
+    padding: 4px 8px;
+}
+#main-content table tr:nth-child(odd){
+    background: lightblue;
+}
+#main-content table tr:nth-child(even){
+    background: lightcyan;
+}
+caption{
+    letter-spacing: 8px;
+    margin-bottom: 8px;
+    font-style: initial;
+    text-decoration: underline;
+    animation: move 5s;
+    animation-iteration-count: infinite;
+}
+/*animacja*/
+@keyframes move{
+    from{
+        background:green;
+    }to{
+        background:yellow;
+    }
+}
+#ryba{
+
+    height:250px;
+}
+#main-content ol{
+    position: relative;
+
+}
+
+#side-menu ul{
+    list-style: none;
+    padding: 2px;
+    margin: 2px;
+
+
+}
+#side-menu ul li{
+    padding: 5px;
+    margin-bottom: 2px;
+    background: gainsboro;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}

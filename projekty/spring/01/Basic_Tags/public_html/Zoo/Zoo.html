@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Zaadoptuj zwierzaka!</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <div>
+            <h1>Zasady adopcji:</h1>
+            <p>Wybierając zwierzaka do adopcji zobowiązujesz się do 
+                comiesięczej wpłaty na jego konto określonej sumy</p>
+
+            <h2>Opcje adopcji:</h2>
+            <table border="1">
+                <caption>Wybierz zwierzaka:</caption>
+                <thead>
+                    <tr>
+                        <th>L.p</th>
+                        <th>Gatunek</th>
+                        <th>Zwierze1</th>
+                        <th>Zwierze2</th>
+                        <th>Zwierze3</th>
+
+                    </tr>
+                </thead>
+
+                <tbody>
+                    <tr>
+                        <td>1.</td>
+                        <td>Myszy</td>    
+                        <td><img width="250" height="250" src="mysz1.jpg"/><br/>Mysz1</td>
+                        <td><img width="250" height="250" src="mysz2.jpg"/><br/>Mysz2</td>
+                        <td><img width="250" height="250" src="mysz3.jpeg"/><br/>Mysz3</td>
+                    </tr>
+                    <tr>
+                        <td>2.</td>
+                        <td>Goryle</td>    
+                        <td><img width="250" height="250" src="goryl1.jpg"/><br/>Goryl1</td>
+                        <td><img width="250" height="250" src="goryl2.jpg"/><br/>Goryl2</td>
+                        <td><img width="250" height="250" src="goryl3.jpg"/><br/>Goryl3</td>
+
+                    </tr>
+                    <tr>
+                        <td>3.</td>
+                        <td>Misie Koala</td>
+                        <td ><img width="250" height="250" src="koala1.jpg"/><br/> Miś Koala1</td>    
+                        <td><img width="250" height="250" src="koala2.jpg"/><br/>Miś Koala2</td> 
+                        <td><img width="250" height="250" src="koala3.jpg"/><br/>Miś Koala3</td> 
+                    </tr>
+                    <tr>
+                        <td>4.</td>
+                        <td>Pingwiny</td>
+                        <td colspan='3'><img width="750" height="250" src="pingwiny.jpg"/><br/>Pingwin 1-lewy Pingwin 2-środkowy Pingwin 3-prawy</td>    
+                    </tr>
+            </table>
+        </div>
+        <div>
+            <table border="1">
+                <caption>Wybierz abonament:</caption>
+                <thead>
+
+                    <tr>
+                        <th>Lp.</th>
+                        <th>Gatunek</th>
+                        <th>Koszt abonamentu na 1 miesiąc</th>
+                        <th>Koszt abonamentu na 3 miesiące</th>
+                        <th>Koszt abonamentu na 6 miesięcy</th>
+
+                    </tr>
+                </thead>
+
+                <tbody>
+                    <tr>
+                        <td>1.</td>
+                        <td>Myszy</td>   
+                        <td>5</td>
+                        <td>15</td>
+                        <td>30</td>
+
+                    </tr>
+                    <tr>
+                        <td>2.</td>
+                        <td>Goryle</td> 
+                        <td>50</td>
+                        <td>150</td>
+                        <td>300</td>
+                    <tr>
+                        <td>3.</td>
+                        <td>Misie Koala</td>
+                        <td>100</td>
+                        <td>300</td>
+                        <td>600</td>
+                    </tr>
+                    <tr>
+                        <td>4.</td>
+                        <td>Pingwiny</td>
+                        <td>200</td>
+                        <td>600</td>
+                        <td>1200</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div>
+            <form method="POST">
+                <label>Wybierz zwierzę do adopcji (możesz wybrać dowolną ilość zwierząt):</label><br/>
+                <select id="zwierzę" name="zwierzę" multiple="multiple">
+                    <optgroup label="Myszy">
+                        <option>Mysz1</option>
+                        <option>Mysz2</option>
+                        <option>Mysz3</option>
+                    </optgroup>
+                    <optgroup label="Goryle">
+                        <option>Goryl1</option>
+                        <option>Goryl2</option>
+                        <option>Goryl3</option>
+                    </optgroup>
+                    <optgroup label="Misie Koala">
+                        <option>Miś Koala1</option>
+                        <option>Miś Koala2</option>
+                        <option>Miś Koala3</option>
+                    </optgroup>
+                    <optgroup label="Pingwiny">
+                        <option>Pingwin1</option>
+                        <option>Pingwin2</option>
+                        <option>Pingwin3</option>
+                    </optgroup>
+                </select>
+                <div>
+<label for="czas">Czas trwania adopcji: </label><br/>
+                <select id="czas" name="czas">
+                    <optgroup>
+                        <option>1 miesiąc</option>
+                        <option>3 miesiące</option>
+                        <option selected="selected">6 miesiące</option>
+
+                    </optgroup>
+                </select>
+                </div>
+                
+                    <label>Dodatkowe opcje do wyboru: </label><br/>
+                    <label for="accept"> Chcę otrzymać zdjęcie zwierzaka: </label>
+                    <input id="accept" name="accept" type="checkbox"> <br/>
+                    <label for="accept"> Chcę aby na klatce była tabliczka z moim imieniem; Moje imię: </label>
+                    <input id="accept" name="accept" > <br/>
+
+            </form>
+        </div>
+    </body>
+</html>

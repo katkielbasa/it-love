@@ -1,0 +1,38 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2014-08-26, 09:30:19
+    Author     : kursant1
+*/
+
+#mainContent {
+    color:white;
+    background: red;
+    text-align: center;
+}
+#paragraph1{
+    background: grey;
+}
+a{
+    font-weight: bold;
+    color: #00FF00;
+    cursor: crosshair;
+}
+/*ss*/grubosc styl linii kolor
+/**/link bezposrednim dzieckiem diva
+.demonstration {
+    border: 2px dashed black;
+       
+}
+p a{
+    font-size: 24px;
+}
+
+div > a{
+    
+    color: blueviolet;
+    font-style: italic;
+}
