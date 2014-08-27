@@ -20,7 +20,10 @@
         <module>Spring-lab1_13</module>
         <module>Spring-lab1_16</module>
         <module>Spring-lab1_16rozw</module>
+        <module>Site</module>
         <module>Site_instruktora</module>
-        
+        <module>Basic_Tags</module>
+        <module>HTML5Application</module>
+        <module>Javascript1</module>
     </modules>
 </project>
