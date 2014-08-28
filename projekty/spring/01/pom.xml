@@ -25,5 +25,11 @@
         <module>Basic_Tags</module>
         <module>HTML5Application</module>
         <module>Javascript1</module>
+        <module>JavaApplication1</module>
+        <module>JavaApplication2</module>
+        <module>JavaApplication3</module>
+        <module>JavaApplication4</module>
+        <module>KatarzynaKolesnik</module>
+        <module>mvc01</module>
     </modules>
 </project>
