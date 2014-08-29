@@ -32,5 +32,7 @@
         <module>JavaApplication4</module>
         <module>KatarzynaKolesnik</module>
         <module>mvc01</module>
+        <module>Gallery</module>
+        <module>Gallery_instruktora</module>
     </modules>
 </project>
