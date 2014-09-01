@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:ui="http://xmlns.jcp.org/jsf/facelets"
+      xmlns:f="http://xmlns.jcp.org/jsf/core">
+    <h:head>
+        <title>#{text.manager_title}</title>
+    </h:head>
+    <h:body>
+        <h1>#{text.manager_title}</h1>
+        <table>
+            <tr>
+                <th>#{text.manager_index}</th>
+                <th>#{text.client_firstName}</th>
+                <th>#{text.client_lastName}</th>
+                <th>#{text.client_dob}</th>
+                <th>#{text.client_sex}</th>
+                <th>#{text.client_parent}</th>
+            </tr>
+            <ui:repeat value="#{manager.repository.all}" var="client" varStatus="status">
+                <tr>
+                    <td>#{status.index+1}</td>
+                    <td>#{client.firstName}</td>
+                    <td>#{client.lastName}</td>
+                    <td>
+                        <h:outputText value="#{client.dateOfBirth}">
+
+                            <f:convertDateTime pattern="#{dictionary.datePattern}"/></h:outputText>
+                    </td>
+                    <td>
+                        #{text['client_sex_'.concat(client.sex)]}
+<!--[tu musi byc String; expression language dla jsfa
+z #- z tego bedzie osobne szkolenie!]-->
+
+                    </td>
+                    <td>#{client.parent? text.yes : text.no}</td>
+                        
+                    
+                </tr>
+            </ui:repeat>
+        </table>
+    </h:body>
+</html>
+
