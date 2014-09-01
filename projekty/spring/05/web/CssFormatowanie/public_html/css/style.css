@@ -1,0 +1,218 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2014-08-26, 10:29:54
+    Author     : kursant5
+*/
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Charcoal, sans-serif;
+}
+#header {
+    height: 80px;
+    background-image: url(../img/bg.jpg);
+    background-repeat: repeat;
+    background-position: 0px -60px;
+    opacity: 0.8;
+    padding: 10px;
+    font-family: Charcoal, sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: white;
+    text-align: center;
+}
+
+#container {
+
+}
+
+#title {
+    font-size: 36px;
+    padding: 0px 0 5px;
+}
+
+#subtitle {
+    font-size: 20px;
+}
+
+#menubg > div {
+    background-image: url(../img/bg.jpg);
+    background-repeat: repeat;
+    background-position: 0px -160px;
+    opacity: 0.7;
+}
+
+#main-menu {
+    height: 34px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+#main-menu ul {
+    list-style: none;
+    margin:0;
+    padding: 0;
+    width: 800px;
+    margin: 0 auto;
+}
+
+#main-menu ul li {
+    width: 160px;
+    line-height: 30px;
+    text-align: center;
+    font-family: Charcoal, sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    float: left;
+}
+
+#main-menu ul li a , #main-menu ul li a:visited{
+    width: 140px;
+    text-decoration: none;
+    padding: 2px 10px;
+    display: block;
+}
+
+#main-menu ul li a {
+    color: black;
+}
+
+#main-menu ul li a:hover {
+    color: orangered;
+    background-color: whitesmoke;
+    border-radius: 10px;
+}
+
+#background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('../img/bg.jpg');
+    background-attachment: fixed;
+    background-size: 100%;
+    opacity: 0.3;
+}
+
+#side-menu {
+    width: 200px;
+    float: left;
+    min-height: 500px;
+}
+
+#side-menu ul {
+    list-style: none;
+    margin:0;
+    padding: 0;
+    width: 800px;
+    margin: 0 auto;
+}
+
+#side-menu ul li {
+    width: 200px;
+    line-height: 30px;
+    text-indent: 20px;
+    font-family: Charcoal, sans-serif;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    text-decoration: none;
+    padding: 1px 0px;
+
+}
+
+#side-menu ul li a, #side-menu ul li a:visited{
+    width: 180px;
+    text-decoration: none;
+    background: burlywood;
+    padding: 2px 10px;
+    display: block;
+}
+
+#side-menu ul li a {
+    color: black;
+}
+
+#side-menu ul li a:hover {
+    color: orangered;
+    background-color: whitesmoke;
+}
+#main-content {
+    position: relative;
+    margin: 0;
+    float: left;
+
+}
+
+#footer {
+    clear: both;
+    text-align: center;
+    background-color: blueviolet;
+    font-size: 16px;
+    font-style: italic;
+    color: whitesmoke;
+    line-height: 34px;
+}
+
+img {
+    margin-left: 20px;
+    padding: 5px;
+    border: 1px solid lightgrey;
+    box-shadow: 0.5px 0.5px 0.5px silver;  
+
+}
+
+#main-content table {
+    position: absolute;
+    top: 60px;
+    left: 350px;
+    border-collapse: collapse;
+    width: 335px;
+    border: 1px solid gray;
+}
+
+#main-content table tr td:first-child {
+    text-align: center;
+}
+
+#main-content table th {
+    background: lightgrey;
+    color: white;
+    padding: 1px 5px;
+}
+
+#main-content table tr td {
+    border: 1px solid gray;
+    padding: 1px 5px;
+}
+
+#main-content table tr:nth-child(odd) {
+    background: lightgray;
+}
+
+#main-content table caption {
+    padding: 2px 2px;
+    letter-spacing: 3px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+h1, h2 {
+    font-weight: normal;
+    margin: 0;
+    padding: 5px 5px;
+    color: coral;
+
+}
+
+#main-content ol {
+    position: relative; 
+}

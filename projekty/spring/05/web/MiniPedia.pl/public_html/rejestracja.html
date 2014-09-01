@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>MiniPedia.pl</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link type="text/css" rel="stylesheet" href="css/style.css"/>
+        <link type="text/css" rel="stylesheet" href="css/bq.css"/>
+    </head>
+    <body>
+        <div class="naglowek" id="gora">
+            <h1>MiniPedia.pl</h1></div>
+        <div class="menu" id="content">
+            <a id="log" href="rejestracja.html">Zarejestruj się</a> <a id="log" href="logowanie.html">Zaloguj się</a>
+        </div>
+        <div class="tresc" id="content">
+            <h2 class="listart">Lista artykułów</h2>
+        </div>
+        <div class="linki"><div class="formularz">
+                <form method="POST" action="">
+                    <label for="firstName">Imię</label>
+                    <input id="firstName" name="firstName" type="text"/><br/>
+                    <label for="lastName">Nazwisko</label>
+                    <input id="lastName" name="lastName" type="text"/><br/>
+                    <label for="passWord">Hasło</label>
+                    <input id="passWord" name="passWord" type="password"/><br/>
+                    <label>Jak dowiedziałeś się o MiniPedii?</label><br/>
+                    <input id="internet" type="radio" name="source"/>
+                    <label for="internet">Reklama w internecie</label><br/>
+                    <input id="google" type="radio" name="source"/>
+                    <label for="google">Google</label><br/>
+                    <input id="znajomi" type="radio" name="source" checked="checked"/>
+                    <label for="znajomi">Od znajomych</label><br/>
+                    <label for="season">Jak chcesz używać MiniPedii</label>
+                    <select id="purpose" name="purpose" multiple="multiple"> <!-- MULTIPLE POZWALA NA WYBÓR KILKU OPCJI Z CONTROLEM -->
+                        <optgroup label="Redakcyjnie">
+                            <option value="1" selected="selected">Pisanie artykułów</option>
+                            <option value="2">Korekta artykułów</option>
+                        </optgroup>
+                        <optgroup label="Informacyjnie">
+                            <option value="3" selected="selected">Czytanie artykułów</option>
+                            <option value="4">Pisanie pracy magisterskiej</option>
+                        </optgroup>
+                    </select><br/>
+                    <label for="accept">Akceptuję regulamin</label>
+                    <input id="accept" name="accept" type="checkbox" checked="checked"/><br/>
+                    <label for="spam">Chcę otrzymywać tony spamu</label>
+                    <input id="spam" name="spam" type="checkbox" checked="checked"/><br/>
+                    <div class="centrujemy"><input type="submit" value="Wyślij"/> <input type="reset" value="Resetuj formularz"/></div>
+                </form>
+            </div>
+            <div>
+                <p class="powrot"><a href="index.html">Powrót do strony glównej</a></div>
+        </div>
+    </body>
+</html>

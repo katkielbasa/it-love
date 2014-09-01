@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <div>
+            <form method="POST" action="">
+                <label for="firstName">Imię</label>
+                <input id="firstName" name="firstName" type="text"/><br/>
+                <label for="passWord">Hasło</label>
+                <input id="passWord" name="passWord" type="password"/><br/>
+                <label for="accept">Akceptuję regulamin</label>
+                <input id="accept" name="accept" type="checkbox" checked="checked"/><br/>
+                <label for="spam">Chcę otrzymywać tony spamu</label>
+                <input id="spam" name="spam" type="checkbox" checked="checked"/><br/>
+                <label>Ulubiony kolor</label><br/>
+                <input id="red" type="radio" name="color"/>
+                <label for="red">Czerwony</label><br/>
+                <input id="green" type="radio" name="color"/>
+                <label for="red">Zielony</label><br/>
+                <input id="blue" type="radio" name="color" checked="checked"/>
+                <label for="blue">Niebieski</label><br/>
+
+                <label for="season">Pora roku</label>
+                <select id="season" name="season" multiple="multiple"> <!-- MULTIPLE POZWALA NA WYBÓR KILKU OPCJI Z CONTROLEM -->
+                    <optgroup label="Ciepłe">
+                        <option value="1" selected="selected">Wiosna</option>
+                        <option value="2">Lato</option>
+                    </optgroup>
+                    <optgroup label="Zimne">
+                        <option value="3" selected="selected">Jesień</option>
+                        <option value="4">Zima</option>
+                    </optgroup>
+                </select><br/>
+                <input type="submit" value="Wyślij"/> <input type="reset" value="Resetuj formularz"/>
+            </form>
+        </div>
+    </body>
+</html>
