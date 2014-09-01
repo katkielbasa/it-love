@@ -34,5 +34,11 @@
         <module>mvc01</module>
         <module>Gallery</module>
         <module>Gallery_instruktora</module>
+        <module>example1</module>
+        <module>example2</module>
+        <module>example3</module>
+        <module>It-love</module>
+        
+        
     </modules>
 </project>
