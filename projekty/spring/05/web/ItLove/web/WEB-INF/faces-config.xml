@@ -8,5 +8,6 @@
             <base-name>text</base-name>
             <var>text</var>
         </resource-bundle>
+        <message-bundle>errors</message-bundle>
     </application>
 </faces-config>

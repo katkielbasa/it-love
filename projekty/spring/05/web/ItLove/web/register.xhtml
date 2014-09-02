@@ -12,15 +12,20 @@
         <h:form>
             <h:panelGrid columns="3">
                 #{text.client_firstName}
-                <h:inputText id="firstName" value="#{registration.client.firstName}"/>
+                <h:inputText id="firstName" value="#{registration.client.firstName}" required="true">
+                    <f:validateRegex pattern="[A-Za-z]{2,}"/> 
+               </h:inputText>
+                
                 <h:message for="firstName"/>
 
                 #{text.client_lastName}
-                <h:inputText id="lastName" value="#{registration.client.lastName}"/>
+                <h:inputText id="lastName" value="#{registration.client.lastName}" required="true">
+                <f:validateRegex pattern="[A-Za-z]{2,}"/> 
+               </h:inputText>
                 <h:message for="lastName"/>
 
                 #{text.client_dob} (#{fn:toLowerCase(dictionary.datePattern)})
-                <h:inputText id="dob" value="#{registration.client.dateOfBirth}">
+                <h:inputText id="dob" value="#{registration.client.dateOfBirth}" required="true">
                     <f:convertDateTime pattern="#{dictionary.datePattern}"/>
                 </h:inputText>
                 <h:message for="dob"/>
