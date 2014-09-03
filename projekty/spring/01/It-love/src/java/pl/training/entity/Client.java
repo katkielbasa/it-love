@@ -5,23 +5,46 @@
  */
 package pl.training.entity;
 
+import java.io.Serializable;
 import java.util.Date;
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.EnumType;
+import javax.persistence.Enumerated;
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
+import javax.persistence.Table;
+import javax.persistence.Temporal;
+import javax.persistence.TemporalType;
 
-/**
- *
- * @author kursant1
- */
-public class Client {
+//implements Serializable do komunikacji 
+@Table(name = "clients")
+@Entity
+//ta klasa bedzie w bazie
+public class Client implements Serializable {
 
     public enum Sex {
 
         MALE, FEMALE, OTHER
     }
 
+    @GeneratedValue
+    @Id
+//    odnosi sie do nastepnej zmiennej po adnotacji
+//    kolejnosc adnotacji obok siebie nie ma znaczenia
+
     private Long id;
+    @Column(name = "first_name")
     private String firstName;
+    @Column(name = "last_name")
     private String lastName;
+    @Column(name = "date_of_birth")
+    @Temporal(TemporalType.DATE)
     private Date dateOfBirth;
+    @Column(nullable = false)
+    @Enumerated(EnumType.ORDINAL)
+//    w bazie bedzie zapisane 0 1 2 
+//    bardziej wydajne
     private Sex sex;
     private boolean parent;
 
