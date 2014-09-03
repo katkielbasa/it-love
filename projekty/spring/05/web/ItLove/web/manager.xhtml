@@ -9,6 +9,10 @@
     </h:head>
     <h:body>
         <h1>#{text.manager_title}</h1>
+        <h:form>
+            #{text.manager_filter_fn} <h:inputText value="#{manager.filterValue}"/>
+            <h:commandButton action="#{manager.filter}" value="#{text.button_send}"/>
+        </h:form>
         <table>
             <tr>
                 <th>#{text.manager_index}</th>
@@ -18,7 +22,9 @@
                 <th>#{text.client_sex}</th>
                 <th>#{text.manager_parent}</th>
             </tr>
-            <ui:repeat value="#{manager.repository.all}" var="client" varStatus="status">
+            <ui:repeat value="#{manager.clients}"
+                        var="client"
+                        varStatus="status">
                 <tr>
                     <td>#{status.index + 1}</td>
                     <td>#{client.firstName}</td>

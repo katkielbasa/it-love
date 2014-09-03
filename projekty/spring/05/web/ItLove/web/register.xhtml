@@ -13,14 +13,14 @@
             <h:panelGrid columns="3">
                 #{text.client_firstName}
                 <h:inputText id="firstName" value="#{registration.client.firstName}" required="true">
-                    <f:validateRegex pattern="[A-Za-z]{2,}"/> 
+                    <f:validateRegex pattern="[A-Za-zŁłÓóĘęĄąŻżŹźĆćŃńŚś]{2,}"/> 
                </h:inputText>
                 
                 <h:message for="firstName"/>
 
                 #{text.client_lastName}
                 <h:inputText id="lastName" value="#{registration.client.lastName}" required="true">
-                <f:validateRegex pattern="[A-Za-z]{2,}"/> 
+                <f:validateRegex pattern="[A-Za-zŁłÓóĘęĄąŻżŹźĆćŃńŚś]{2,}"/> 
                </h:inputText>
                 <h:message for="lastName"/>
 

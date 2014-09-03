@@ -1,21 +1,20 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package pl.training.services;
 
 import java.util.List;
+import javax.ejb.Local;
 import pl.training.entity.Client;
 
-/**
- *
- * @author kursant5
- */
+@Local
 public interface ClientsRepository {
 
+    enum FilterType {
+        LAST_NAME
+    }
+    
     Long add(Client client);
 
     List<Client> getAll();
+    
+    List<Client> getAll(FilterType filterType, String value);
 
 }
