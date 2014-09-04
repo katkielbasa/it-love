@@ -10,8 +10,31 @@
     <h:body>
         <h1>#{text.manager_title}</h1>
         <h:form>
-            #{text.manager_filter_fn} <h:inputText value="#{manager.filterValue}"/>
-            <h:commandButton action="#{manager.filter}" value="#{text.button_send}"/>
+            <h:panelGrid columns="5" id="filterPanel">
+                #{text.manager_filter}
+                <h:selectOneMenu value="#{manager.filterType}">
+                    <f:selectItem itemValue="LAST_NAME" itemLabel="#{text.client_lastName}"/>
+                    <f:selectItem itemValue="FIRST_NAME" itemLabel="#{text.client_firstName}"/>
+                    <f:selectItem itemValue="SEX" itemLabel="#{text.client_sex}"/>
+                    <f:selectItem itemValue="AGE" itemLabel="#{text.client_age}"/>
+                    <f:selectItem itemValue="IS_PARENT" itemLabel="#{text.client_parent}"/>
+                </h:selectOneMenu>
+
+                <h:inputText value="#{manager.filterValue}" rendered="#{manager.filterType == 'LAST_NAME' or manager.filterType ==
+                                      'FIRST_NAME' or manager.filterType == 'AGE'}"/>
+                <h:selectOneMenu value="#{manager.filterValue}" rendered="#{manager.filterType == 'SEX'}">
+                    <f:selectItem itemLabel="#{text.client_sex_MALE}" itemValue="MALE"/>
+                    <f:selectItem itemLabel="#{text.client_sex_FEMALE}" itemValue="FEMALE"/>
+                    <f:selectItem itemLabel="#{text.client_sex_OTHER}" itemValue="OTHER"/>
+                </h:selectOneMenu>
+                <h:selectOneRadio value="#{manager.filterValue}" rendered="#{manager.filterType == 'IS_PARENT'}">
+                    <f:selectItem itemLabel="#{text.yes}" itemValue="true"/>
+                    <f:selectItem itemLabel="#{text.no}" itemValue="false"/>
+                </h:selectOneRadio>
+                <h:commandButton action="#{manager.filter}" value="#{text.button_filter}"/>
+                <h:commandButton action="#{manager.reset}" value="#{text.button_reset}"/>
+            </h:panelGrid>
+
         </h:form>
         <table>
             <tr>
@@ -23,8 +46,8 @@
                 <th>#{text.manager_parent}</th>
             </tr>
             <ui:repeat value="#{manager.clients}"
-                        var="client"
-                        varStatus="status">
+                       var="client"
+                       varStatus="status">
                 <tr>
                     <td>#{status.index + 1}</td>
                     <td>#{client.firstName}</td>

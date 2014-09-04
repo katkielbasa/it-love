@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>ALL YOUR BASE ARE BELONG TO US</title>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="style.css"/>
+    </head>
+    <body>
+        <div>
+            <h1>REGISTER YOUR BASE</h1>
+            <form method="POST" action="confirm.jsp">
+                <table>
+                    <tr>
+                        <td><label for="baseName">YOUR BASE NAME</label></td>
+                        <td><input name="baseName" id="baseName" type="text"/></td>
+                    </tr>
+                    <tr>
+                        <td><label for="baseLocation">YOUR BASE LOCATION</label></td>
+                        <td><input name="baseLocation" id="baseLocation" type="text"/></td>
+                    </tr>
+                    <tr>
+                        <td><label for="basePassword">YOUR BASE PASSWORD</label></td>
+                        <td><input name="basePassword" id="basePassword" type="password"/></td>
+                    </tr>
+                    <tr>
+                        <td><label for="baseProtected">IS YOUR BASE PROTECTED?</label></td>
+                        <td>
+                            <select id="baseProtected" name="baseProtected">
+                                <option value="NO" selected="selected">NOT REALLY</option>
+                                <option value="YES">YEP!</option>
+                                <option value="DUNNO">NOT SURE</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><label>WILL YOU SURRENDER?</label></td>
+                        <td>
+                            <input type="radio" name="willSurrender" value="YES" checked="checked"/>YES
+                            <input type="radio" name="willSurrender" value="YESYESYES"/>YES! YES! YES!
+                        </td>
+                    </tr>
+                </table>
+                <input type="submit" value="Wyślij"/>
+                <input type="reset"/>
+            </form>
+        </div>
+    </body>
+</html>
