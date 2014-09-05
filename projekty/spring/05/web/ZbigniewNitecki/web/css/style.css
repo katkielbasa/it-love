@@ -32,7 +32,7 @@ table tr {
     height: 40px;
 }
 
-input[type=text], input[type=password] {
+input[type=text], input[type=email] {
     color: greenyellow;
     background: black;
     border: 1px dashed greenyellow
