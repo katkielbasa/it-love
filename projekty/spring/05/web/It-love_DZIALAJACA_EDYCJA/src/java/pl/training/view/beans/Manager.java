@@ -3,11 +3,13 @@ package pl.training.view.beans;
 import java.io.Serializable;
 import java.util.List;
 import javax.annotation.PostConstruct;
+import javax.ejb.PostActivate;
 import javax.enterprise.context.Conversation;
 import javax.enterprise.context.ConversationScoped;
 import javax.faces.bean.ManagedBean;
 import javax.faces.bean.ViewScoped;
 import javax.inject.Inject;
+import javax.persistence.PrePersist;
 import pl.training.entity.Client;
 import pl.training.service.ClientsRepository;
 
@@ -30,8 +32,8 @@ public class Manager implements Serializable{
     
     @PostConstruct
     public void init() {
+        editClient = new Client();
         clients = repository.getAll(order);
-      //  
     }
 
     public String getFilterValue() {
@@ -91,10 +93,14 @@ public class Manager implements Serializable{
     
     public void remove(Long id) {
         repository.remove(id);
+        init();
     }
-    
+
     public String update() {
+        conversation.end();
         repository.update(editClient);
+        System.out.println(editClient.toString());
+        init();
         return "manager";
     }
     

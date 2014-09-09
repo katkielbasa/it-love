@@ -35,6 +35,11 @@ public class Client implements Serializable {
     private Sex sex = Sex.OTHER;
     private boolean parent;
 
+    @Override
+    public String toString() {
+        return "Client{" + "id=" + id + ", firstName=" + firstName + ", lastName=" + lastName + ", dateOfBirth=" + dateOfBirth + ", sex=" + sex + ", parent=" + parent + '}';
+    }
+
     public Long getId() {
         return id;
     }
