@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:ui="http://xmlns.jcp.org/jsf/facelets">
+    <h:head>
+        <title>${text.manager_management}</title>
+    </h:head>
+    <h:body>
+        <h1>#{text.manager_management}</h1>
+        <table>
+            <tr>
+                <th>#{text.manager_index}</th>
+                <th>#{text.cargo_name}</th>
+                <th>#{text.cargo_desc}</th>
+                <th>#{text.cargo_price}</th>
+                <th>#{text.cargo_amount}</th>
+                <th>#{text.cargo_category}</th>
+            </tr>
+            <ui:repeat value="#{manager.cargos}"
+                       var="cargo" 
+                       varStatus="status">
+                <tr>
+                    <td>#{status.index + 1}</td>
+                    <td>#{cargo.cargoName}</td>
+                    <td>#{cargo.description}</td>
+                    <td>#{cargo.price}zł</td>
+                    <td>#{cargo.amount}</td>
+                    <td>#{text['cargo_text_'.concat(cargo.category)]}</td>
+                    <td>
+                        <h:commandLink value="#{text.manager_remove}" action="#{manager.remove(cargo.id)}"/>
+                        <h:commandLink value="#{text.manager_edit}" action="#{manager.edit(cargo)}"/>
+                        
+                    </td>
+                </tr>
+            </ui:repeat>
+        </table>
+        <h:form><h:commandButton value="#{text.manager_comeback}" action="#{manager.comeBack}"/></h:form>
+    </h:body>
+</html>
+
