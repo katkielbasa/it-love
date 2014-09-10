@@ -7,8 +7,8 @@
 <!-- the Compile on Save feature is turned off for the project. -->
 <!-- You can turn off the Compile on Save (or Deploy on Save) setting -->
 <!-- in the project's Project Properties dialog box.-->
-<project name="It-love_DZIALAJACA_EDYCJA" default="default" basedir=".">
-    <description>Builds, tests, and runs the project It-love_DZIALAJACA_EDYCJA.</description>
+<project name="It-love_DZIALAJACA_EDYCJA_FINALNIE_FINALNA" default="default" basedir=".">
+    <description>Builds, tests, and runs the project It-love_DZIALAJACA_EDYCJA_FINALNIE_FINALNA.</description>
     <import file="nbproject/build-impl.xml"/>
     <!--
 
