@@ -9,11 +9,17 @@ import javax.sql.DataSource;
 public class ClientDataDAOImpl implements ClientDataDAO {
 
 	public void saveClientData(Client cl, String dataSource) throws Exception {
-		
+	
+            
+//            wyszukiwanie obiektu Datasource pod nazwa datasource:
+            
         InitialContext initCtx = new InitialContext();
 		//jdb/jweb-lookup
         DataSource ds = (DataSource) initCtx.lookup(dataSource);
 		//jpr-klasa connection-dostęp do bazy danych
+//        zamiast tego chcemy zeby to kontener nam podał obiekt
+        
+        
         Connection con = null;
         //parametry w SQLu liczone od jedynki(nie-zero)
         try {

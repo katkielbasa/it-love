@@ -34,7 +34,7 @@ public class ControllerServlet extends HttpServlet {
 
         // dodanie linku do formularza ulubionej marki
         String cp = request.getContextPath();
-       
+
         String path = cp + "/makeForm.html";
         out.println("<a href=\"" + path + "\">Informacje producenta</a><br/>");
 
@@ -43,7 +43,15 @@ public class ControllerServlet extends HttpServlet {
 
         out.println("</td></tr><table>");
 
+//ustanowienie sesji:
+//request.getSession(); jest równoznaczne z:
+        request.getSession(true);
+//        wywołuje metode getSession na obiekcie typu HttpServletRequest
+
+        out.println(SessionCounter.getActiveSessions());
+
         out.println("</center></body>");
         out.println("</html>");
+
     }
 }
