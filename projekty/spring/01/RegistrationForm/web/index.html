@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Formularz rejestracyjny</title>
+        <meta charset="UTF-8">
+        <link href="mystyle.css" rel="stylesheet"/>
+    </head>
+    <body>
+        <h1>Rejestracja nowego użytkownika</h1>
+        <form method="POST" action="collect.jsp">
+            <table>
+                <tr>
+                    <td><label for="firstName">Imię</label></td>
+                    <td><input id="firstName" name="firstName" type="text"></td>
+                </tr>
+                <tr>
+                    <td><label for="lastName">Nazwisko</label></td>
+                    <td><input id="lastName" name="lastName" type="text"></td>
+                </tr>
+
+                <tr>
+                    <td><label for="emailAddress">Adres email</label></td>
+                    <td><input id="emailAddress" name="emailAddress" type="text"></td>
+                </tr>
+                <tr>
+                    <td><label>Płeć</label></td>
+                    <td>                        
+                        <input type="radio" name="sex" value="Mężczyzna"/>
+                        Mężczyzna
+                        <input type="radio" name="sex" value="Kobieta" checked="checked"/>
+                        Kobieta
+                    </td>
+                </tr>
+                <tr>
+                    <td><label for="voivodeship">Województwo</label></td>
+                    <td>
+                        <select id="voivodeship" name="voivodeship">
+                            <option>dolnośląskie</option>
+                            <option>podkarpackie</option>
+                            <option>pomorskie</option>
+                            <option>opolskie</option>
+                            <option>wielkopolskie</option>
+                        </select>
+                    </td>
+                </tr>
+            </table>
+
+            <input type="submit" value="Wyślij"/>
+            <input type="reset" value="Resetuj"/>
+
+        </form>
+    </body>
+</html>
+
+
