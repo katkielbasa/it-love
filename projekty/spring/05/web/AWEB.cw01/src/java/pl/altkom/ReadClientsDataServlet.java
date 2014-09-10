@@ -36,7 +36,7 @@ public class ReadClientsDataServlet extends HttpServlet {
         out.println("<title>Lista klientów</title>");
         out.println("</head>");
         out.println("<body bgcolor=\"lightblue\"><center>");
-        out.println("<table align='center'>");
+        out.println("<table align='center' border='1'>");
         for (Client c : clients) {
             out.println("<tr>");
             out.println("<td>" + c.getName() + "</td>");
