@@ -4,36 +4,34 @@
         <param-name>ds1</param-name>
         <param-value>jdbc/jweb</param-value>
         <!--utworzenie parametru dla calej aplikacji-->
-    
-     
     </context-param>
     <listener>
         <listener-class>pl.altkom.SessionCounter</listener-class>
     </listener>
-    <servlet>
+<!--    <servlet>
         <servlet-name>controller</servlet-name>
         <servlet-class>pl.altkom.ControllerServlet</servlet-class>
-    </servlet>
-    <servlet>
+    </servlet>-->
+<!--    <servlet>
         <servlet-name>redirect</servlet-name>
         <servlet-class>pl.altkom.RedirectServlet</servlet-class>
-    </servlet>
-    <servlet>
+    </servlet>-->
+<!--    <servlet>
         <servlet-name>saveClientData</servlet-name>
         <servlet-class>pl.altkom.SaveClientDataServlet</servlet-class>
-    </servlet>
-    <servlet-mapping>
+    </servlet>-->
+<!--    <servlet-mapping>
         <servlet-name>controller</servlet-name>
         <url-pattern>/controller</url-pattern>
-    </servlet-mapping>
-    <servlet-mapping>
+    </servlet-mapping>-->
+<!--    <servlet-mapping>
         <servlet-name>redirect</servlet-name>
         <url-pattern>/redirect</url-pattern>
-    </servlet-mapping>
-    <servlet-mapping>
+    </servlet-mapping>-->
+<!--    <servlet-mapping>
         <servlet-name>saveClientData</servlet-name>
         <url-pattern>/saveClientData</url-pattern>
-    </servlet-mapping>
+    </servlet-mapping>-->
     <welcome-file-list>
         <welcome-file>controller</welcome-file>
     </welcome-file-list>
