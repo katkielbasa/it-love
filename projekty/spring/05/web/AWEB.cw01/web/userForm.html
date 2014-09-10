@@ -1,0 +1,31 @@
+<html>
+    <head>
+        <title>dane klienta</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <div>
+            <h1>Dane klienta</h1>
+            <form method="POST" action="saveClientData">
+                <label for="firstName">Imię: </label><input name="firstName" id="firstName" type="text">
+                <label for="lastName">Nazwisko: </label><input name="lastName" id="lastName" type="text">
+                <label for="region">Region: </label>
+                <select name="region" id="region">
+                    <option>Mazowsze</option>
+                    <option>Wielkopolska</option>
+                    <option>Małopolska</option>
+                </select>
+                <label for="age">Wiek: </label>
+                <select name="age" id="age">
+                    <option>20</option>
+                    <option>25</option>
+                    <option>30</option>
+                    <option>35</option>
+                </select>
+                <input type="checkbox" name="male" id="male" value="true"/><label for="male">Mężczyzna</label>
+                <input type="submit" value="Zapisz"/>
+            </form>
+        </div>
+    </body>
+</html>
