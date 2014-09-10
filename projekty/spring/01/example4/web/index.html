@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Rejestracja</title>
+        <meta charset="UTF-8">
+        <link href="style.css" rel="stylesheet"/>
+    </head>
+    <body>
+        <h1>Rejestracja nowego klienta</h1>
+        <form method="POST" action="confirm.jsp">
+            <table>
+                <tr>
+                    <td><label for="firstName">Imię</label></td>
+                    <td><input id="firstName" name="firstName" type="text"></td>
+                </tr>
+                <tr>
+                    <td><label for="lastName">Nazwisko</label></td>
+                    <td><input id="lastName" name="lastName" type="text"></td>
+                </tr>
+                <tr>
+                    <td><label for="password">Hasło</label></td>
+                    <td><input id="password" name="password" type="password"></td>
+                </tr>
+                <tr>
+<!--                    Nie musimy podawać value bo wtedy nie trzeba choose-->
+                    <td><label for="city">Miasto</label></td>
+                    <td>
+                        <select id="city" name="city">
+                            <option value="pz">Poznań</option>
+                            <option value="wr" selected="selected">Wrocław</option>
+                            <option value="gd">Gdańsk</option>
+                        </select>
+                    </td>
+                </tr>
+                               <tr>
+                    <td><label>Płeć</label></td>
+                    <td>                        
+                        <input type="radio" name="sex" value="Mężczyzna" checked="checked"/>
+<!--                        <input type="radio" name="sex" value="MALE" checked="checked"/>-->
+                        Mężczyzna
+                        <input type="radio" name="sex" value="Kobieta"/>
+<!--                         <input type="radio" name="sex" value="FEMALE"/>-->
+                        Kobieta
+                    </td>
+                </tr>
+            </table>
+            <input type="submit" value="Zapisz"/>
+            <input type="reset" value="Resetuj"/>
+        </form>
+    </body>
+</html>

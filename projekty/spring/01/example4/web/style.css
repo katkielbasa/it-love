@@ -1,0 +1,36 @@
+body {
+    background: beige;
+}
+
+h1 {
+    font-family: sans-serif;
+    color: crimson;
+    font-size: 18px;
+}
+
+table {
+    letter-spacing: 3px;
+    font-size: 16px;
+}
+
+table tr td:nth-child(2) {
+    padding-left: 30px;
+}
+
+table tr {
+    height: 40px;
+}
+
+input[type=text], input[type=password], select {
+    background-color: honeydew;
+    border: 1px dashed brown;
+    color: blue;
+    padding: 4px;
+}
+
+input[id=lastName] {
+    background-color: white;
+    border: 1px solid black; 
+    color: black;
+}
+
